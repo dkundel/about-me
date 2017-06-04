@@ -18,6 +18,11 @@
 
 Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and CoderDojos or work on open source projects. 
 
+You can find some of his previous talks here:
+- [Get started writing TypeScript today! at Devoxx Belgium](https://www.youtube.com/watch?v=cIzwsDcAmUM)
+- [Hybrid Appocalypse at Microsoft Technical Summit](https://channel9.msdn.com/Events/microsoft-techncial-summit/Technical-Summit-2016/Hybrid-Appocalypse-The-Web-Technology-Invasion-of-the-Desktop)
+- [2FA, WTF? at Devoxx Poland](https://www.youtube.com/watch?v=b5ZJZETkCoM)
+
 ## 👥 Social Channels
 
 - 🐦 [Twitter @dkundel](https://twitter.com/dkundel)
