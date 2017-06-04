@@ -44,6 +44,7 @@ You can find some of his previous talks here:
 - [node-env-run](https://github.com/dkundel/node-env-run) | A `node` wrapper to automatically load environment variables from a `.env` file
 - [vscode-new-file](https://github.com/dkundel/vscode-new-file) | [VS Code](https://code.visualstudio.com) extension for a better new file dialog
 - [vscode-npm-source](https://github.com/dkundel/vscode-npm-source) | [VS Code](https://code.visualstudio.com) extension to open the documentation of a Node module in the browser
+- [htcpcp-delonghi](https://github.com/dkundel/htcpcp-delonghi) | Implementation of the [Hyper Text Coffee Pot Control Protocol](http://ietf.org/rfc/rfc2324.txt) for the DeLonghi Latissima
 
 ## 🗣 Past Presentations
 
