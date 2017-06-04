@@ -39,6 +39,12 @@ You can find some of his previous talks here:
 - [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | TypeScript Introduction
 - [2FA, WTF?](abstracts/2FA-WTF.md) | Two-Factor Authentication, Security, One-Time-Passwords
 
+## 💻 Open Source Projects
+
+- [node-env-run](https://github.com/dkundel/node-env-run) | A `node` wrapper to automatically load environment variables from a `.env` file
+- [vscode-new-file](https://github.com/dkundel/vscode-new-file) | [VS Code](https://code.visualstudio.com) extension for a better new file dialog
+- [vscode-npm-source](https://github.com/dkundel/vscode-npm-source) | [VS Code](https://code.visualstudio.com) extension to open the documentation of a Node module in the browser
+
 ## 🗣 Past Presentations
 
 | Event | Location | Date | Topic |       |
