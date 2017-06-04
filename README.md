@@ -18,6 +18,15 @@
 
 Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and CoderDojos or work on open source projects. 
 
+## 👥 Social Channels
+
+- 🐦 [Twitter @dkundel](https://twitter.com/dkundel)
+- 📧 [Email dkundel@twilio.com](mailto:dkundel@twilio.com)
+- 🐱 [GitHub dkundel](https://github.com/dkundel)
+- ✏️ [Blog moin.world](https://moin.world)
+- 🗣 [Speakerdeck dkundel](https://speakerdeck.com/dkundel)
+- 🏅 [Lanyrd dkundel](http://lanyrd.com/profile/dkundel/)
+
 ## 💬 Current Talk Topics
 
 - [Coffee.js - How I hacked my coffee machine using JavaScript](abstracts/COFFEE-JS.md) | JavaScript, Hardware
