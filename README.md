@@ -20,10 +20,10 @@ Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for Jav
 
 ## 💬 Current Talk Topics
 
-- [Coffee.js - How I hacked my coffee machine using JavaScript](abstracts/COFFEE-JS.md) ☛ JavaScript, Hardware
-- [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) ☛ JavaScript, Desktop applications, Electron, Hybrid
-- [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) ☛ TypeScript Introduction
-- [2FA, WTF?](abstracts/2FA-WTF.md) ☛ Two-Factor Authentication, Security, One-Time-Passwords
+- [Coffee.js - How I hacked my coffee machine using JavaScript](abstracts/COFFEE-JS.md) | JavaScript, Hardware
+- [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) | JavaScript, Desktop applications, Electron, Hybrid
+- [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | TypeScript Introduction
+- [2FA, WTF?](abstracts/2FA-WTF.md) | Two-Factor Authentication, Security, One-Time-Passwords
 
 ## 🗣 Past Presentations
 
@@ -42,3 +42,18 @@ Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for Jav
 | [International PHP Conference Spring '16]() | Berlin, 🇩🇪 | May 30th, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/ipc-17-getting-started-with-typescript) |
 | [Shift Conference Split](http://shift.codeanywhere.com/) | Split, 🇭🇷 | June 2nd, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/shift-conf-17-how-i-hacked-my-coffee-machine-using-js) |
 
+## ✏️ Technical Writing
+
+- [Conference Monitoring á la Iron Man](https://www.twilio.com/blog/2016/05/conference-call-monitoring-twilio.html) | May 20th, 2016
+- [Supercharge your Twilio API calls with Add-ons](https://www.twilio.com/blog/2016/05/supercharge-your-twilio-api-calls-with-add-ons.html) | May 24th, 2016
+- [Build your own Pokemon Go SMS Service with Node.js, Express and Twilio](https://www.twilio.com/blog/2016/07/pokemon-go-sms-node-js-twilio.html) | July 29th, 2016
+- [Get started with writing TypeScript today!](https://www.twilio.com/blog/2016/08/start-writing-typescript-today.html) | August 12, 2016
+- [Writing a bot for Programmable Chat in Node.js](https://www.twilio.com/blog/2016/08/writing-a-bot-for-ip-messaging-in-node-js.html) | August 29th, 2016
+- [A quick guide to JavaScript Promises](https://www.twilio.com/blog/2016/10/guide-to-javascript-promises.html) | October 3rd, 2016
+- [Set up an SMS Forwarding Number in 5 Minutes with Twilio](https://www.twilio.com/blog/2016/11/set-up-an-sms-forwarding-number-in-5-minutes-with-twilio.html) | November 29th, 2016
+- [SMS Versenden mit Node.js und Twilio](https://www.twilio.com/blog/2016/12/sms-versenden-mit-node-js-und-twilio.html) | December 20th, 2016
+- [Build a Basic Call Center in Just a Few Minutes with Twilio](https://www.twilio.com/blog/2017/01/build-a-basic-call-center-in-just-a-few-minutes-with-twilio.html) | January 4th, 2017
+- [How To Set Environments](https://www.twilio.com/blog/2017/01/how-to-set-environment-variables.html) | January 26th, 2017
+- [Phone Number Verification without Regular Expression](https://www.twilio.com/blog/2017/03/phone-number-verification-without-regular-expression.html) | March 7th, 2017
+- [Deploy .NET Core with Docker and now.sh](https://www.twilio.com/blog/2017/03/deploy-net-core-with-docker-and-now-sh.html) | March 30th, 2017
+- [How We Hacked Our Coffee Machine with JavaScript](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/) | April 1st, 2017
