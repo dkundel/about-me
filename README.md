@@ -18,6 +18,13 @@
 
 Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and CoderDojos or work on open source projects. 
 
+## 💬 Current Talk Topics
+
+- [Coffee.js - How I hacked my coffee machine using JavaScript](abstracts/COFFEE-JS.md) ☛ JavaScript, Hardware
+- [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) ☛ JavaScript, Desktop applications, Electron, Hybrid
+- [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) ☛ TypeScript Introduction
+- [2FA, WTF?](abstracts/2FA-WTF.md) ☛ Two-Factor Authentication, Security, One-Time-Passwords
+
 ## 🗣 Past Presentations
 
 | Event | Date | Location | Topic |       |
@@ -34,3 +41,4 @@ Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for Jav
 | [JSUnconf 2017](http://2017.jsunconf.eu/) | Hamburg, 🇩🇪 | March 25th, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/jsunconf-17-how-i-hacked-my-coffee-machine-with-javascript-1) |
 | [International PHP Conference Spring '16]() | Berlin, 🇩🇪 | May 30th, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/ipc-17-getting-started-with-typescript) |
 | [Shift Conference Split](http://shift.codeanywhere.com/) | Split, 🇭🇷 | June 2nd, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/shift-conf-17-how-i-hacked-my-coffee-machine-using-js) |
+
