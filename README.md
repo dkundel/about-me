@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/me-neutral-round.png">
+  <img src="images/me-neutral-round.png" width="200">
   <h1 align="center">Dominik Kundel</h1>
   <p align="center">
     ∙ Developer Evangelist <a target="_blank" href="https://www.twilio.com">Twilio</a> ∙<br>
@@ -14,9 +14,11 @@
 
 ---
 
-> Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and CoderDojos or work on open source projects. 
+## 👨‍💻 Biography
 
-# 🗣 Past Presentations
+Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and CoderDojos or work on open source projects. 
+
+## 🗣 Past Presentations
 
 | Event | Date | Location | Topic |       |
 |------|-------|:-----:|------|--------|
