@@ -27,7 +27,7 @@ Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for Jav
 
 ## 🗣 Past Presentations
 
-| Event | Date | Location | Topic |       |
+| Event | Location | Date | Topic |       |
 |------|-------|:-----:|------|--------|
 | [HackCon EU '15](https://hackcon.mlh.io/) | London,&nbsp;🇬🇧 | August 29th, 2015 | Community Building | [📹&nbsp;Video](https://www.youtube.com/watch?v=SKgUOeD2_u8) |
 | [Devoxx Poland](http://devoxx.pl/) | Krakow,&nbsp;🇵🇱 | June 23rd, 2016 | [2FA, WTF?](abstracts/2FA-WTF.md) | [📹 Video](https://www.youtube.com/watch?v=b5ZJZETkCoM) |
