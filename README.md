@@ -84,3 +84,4 @@ You can find some of his previous talks here:
 - [Phone Number Verification without Regular Expression](https://www.twilio.com/blog/2017/03/phone-number-verification-without-regular-expression.html) | March 7, 2017
 - [Deploy .NET Core with Docker and now.sh](https://www.twilio.com/blog/2017/03/deploy-net-core-with-docker-and-now-sh.html) | March 30, 2017
 - [How We Hacked Our Coffee Machine with JavaScript](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/) | April 1, 2017
+- [Writing a Node.js module in TypeScript](https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html) | June 8, 2017
