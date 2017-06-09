@@ -2,7 +2,7 @@
   <img src="images/me-neutral-round.png" width="200">
   <h1 align="center">Dominik Kundel</h1>
   <p align="center">
-    ∙ Developer Evangelist <a target="_blank" href="https://www.twilio.com">Twilio</a> ∙<br>
+    ∙ Developer Evangelist at <a target="_blank" href="https://www.twilio.com">Twilio</a> ∙<br>
     ∙ JavaScript hacker ∙<br>
     ∙ Hackathon enthusiast ∙<br>
     ∙ Co-Founder of jacobsHack! ∙
