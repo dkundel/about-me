@@ -28,7 +28,7 @@ You can find some of his previous talks here:
 
 - 🐦 [Twitter @dkundel](https://twitter.com/dkundel)
 - 📧 [Email dkundel@twilio.com](mailto:dkundel@twilio.com)
-- 🐱 [GitHub dkundel](https://github.com/dkundel)
+- :octocat: [GitHub dkundel](https://github.com/dkundel)
 - ✏️ [Blog moin.world](https://moin.world)
 - 🗣 [Speakerdeck dkundel](https://speakerdeck.com/dkundel)
 - 🏅 [Lanyrd dkundel](http://lanyrd.com/profile/dkundel/)
