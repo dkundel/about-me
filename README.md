@@ -22,6 +22,7 @@ You can find some of his previous talks here:
 - [Get started writing TypeScript today! at Devoxx Belgium](https://www.youtube.com/watch?v=cIzwsDcAmUM)
 - [Hybrid Appocalypse at Microsoft Technical Summit](https://channel9.msdn.com/Events/microsoft-techncial-summit/Technical-Summit-2016/Hybrid-Appocalypse-The-Web-Technology-Invasion-of-the-Desktop)
 - [2FA, WTF? at Devoxx Poland](https://www.youtube.com/watch?v=b5ZJZETkCoM)
+- [Coffee.js - How I hacked my coffee machine with JavaScript](https://www.youtube.com/watch?v=0uL8tsmS_iQ)
 
 ## 👥 Social Channels
 
