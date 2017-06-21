@@ -69,6 +69,7 @@ You can find some of his previous talks here:
 | [UIKonf Unconference Day](http://www.uikonf.com/) | Berlin,&nbsp;🇩🇪 | May 17, 2017 | [2FA, WTF?](abstracts/2FA-WTF.md) | |
 | [International PHP Conference Spring '16]() | Berlin,&nbsp;🇩🇪 | May 30, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/ipc-17-getting-started-with-typescript) |
 | [Shift Conference Split](http://shift.codeanywhere.com/) | Split,&nbsp;🇭🇷 | June 2, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/shift-conf-17-how-i-hacked-my-coffee-machine-using-js) <br> [📹 Video](https://www.youtube.com/watch?v=0uL8tsmS_iQ) |
+| [EnterJS 2017](https://www.enterjs.de/) | Darmstadt,&nbsp;🇩🇪 | June 21, 2017 | [Los Geht's mit TypeScript](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/enterjs-17-los-gehts-mit-typescript) |
 
 ## ✏️ Technical Writing
 
