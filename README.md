@@ -71,6 +71,7 @@ You can find some of his previous talks here:
 | [Shift Conference Split](http://shift.codeanywhere.com/) | Split,&nbsp;🇭🇷 | June 2, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/shift-conf-17-how-i-hacked-my-coffee-machine-using-js) <br> [📹 Video](https://www.youtube.com/watch?v=0uL8tsmS_iQ) |
 | [EnterJS 2017](https://www.enterjs.de/) | Darmstadt,&nbsp;🇩🇪 | June 21, 2017 | [Los Geht's mit TypeScript](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/enterjs-17-los-gehts-mit-typescript) |
 | [Developer Week 2017](http://www.developer-week.de/) | Nuremberg,&nbsp;🇩🇪 | June 26, 2017 | [Los Geht's mit TypeScript](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/developer-week-17-los-gehts-mit-typescript) |
+| [JSConf BE '17](https://www.jsconf.be/en/) | Bruges,&nbsp;🇧🇪 | June 29, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/jsconf-be-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 
 ## ✏️ Technical Writing
 
