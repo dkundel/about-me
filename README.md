@@ -94,6 +94,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Writing a Node.js module in TypeScript](https://www.twilio.com/blog/2017/06/writing-a-node-module-in-typescript.html) | June 8, 2017
 - 🇺🇸 [10 TypeScript Features You Might Not Know](https://moin.world/2017/06/18/10-TypeScript-Features-You-Might-Not-Know/) | June 18, 2017
 - 🇺🇸 [Building the IT Crowd answering machine using Twilio Functions](https://www.twilio.com/blog/2017/07/building-the-it-crowd-answering-machine-using-twilio-functions.html) | July 4, 2017
+- 🇺🇸 [Find projects infected by malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html) | August 2, 2017
 
 ### Print
 
