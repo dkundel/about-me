@@ -52,7 +52,7 @@ You can find some of his previous talks here:
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [Foss4G Europe '14](https://europe.foss4g.org/2014/) | Bremen,&nbsp;🇩🇪 | July 15, 2014 | [Prototyping a touch client for Planetary Data analysis: PlanetServer Touch](https://europe.foss4g.org/2014/content/prototyping-touch-client-planetary-data-analysis-planetserver-touch.html) | [🖥&nbsp;Slides](https://dkundel.github.io/foss4g-e/#/) |
+| [FOSS4G Europe '14](https://europe.foss4g.org/2014/) | Bremen,&nbsp;🇩🇪 | July 15, 2014 | [Prototyping a touch client for Planetary Data analysis: PlanetServer Touch](https://europe.foss4g.org/2014/content/prototyping-touch-client-planetary-data-analysis-planetserver-touch.html) | [🖥&nbsp;Slides](https://dkundel.github.io/foss4g-e/#/) |
 | [HackCon EU '15](https://hackcon.mlh.io/) | London,&nbsp;🇬🇧 | August 29, 2015 | Community Building | [📹&nbsp;Video](https://www.youtube.com/watch?v=SKgUOeD2_u8) |
 | [copenhacks '16](http://copenhacks.com/) | Copenhagen,&nbsp;🇩🇰 | April 16, 2016 | Beginner Workshop on Node.js | |
 | [Devoxx Poland](http://devoxx.pl/) | Krakow,&nbsp;🇵🇱 | June 23, 2016 | [2FA, WTF?](abstracts/2FA-WTF.md) | [📹 Video](https://www.youtube.com/watch?v=b5ZJZETkCoM) |
