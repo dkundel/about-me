@@ -98,6 +98,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Building the IT Crowd answering machine using Twilio Functions](https://www.twilio.com/blog/2017/07/building-the-it-crowd-answering-machine-using-twilio-functions.html) | July 4, 2017
 - 🇺🇸 [Find projects infected by malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html) | August 2, 2017
 - 🇺🇸 [JS 💖 Hardware - Getting started with Nodebots and Johnny-Five](https://www.twilio.com/blog/2017/08/js-hardware-getting-started-with-nodebots-and-johnny-five.html) | August 4, 2017
+- 🇺🇸 [Working with Environment Variables](https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html) | August 11, 2017
 
 ### Print
 
