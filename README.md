@@ -101,6 +101,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Find projects infected by malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html) | August 2, 2017
 - 🇺🇸 [JS 💖 Hardware - Getting started with Nodebots and Johnny-Five](https://www.twilio.com/blog/2017/08/js-hardware-getting-started-with-nodebots-and-johnny-five.html) | August 4, 2017
 - 🇺🇸 [Working with Environment Variables](https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html) | August 11, 2017
+- 🇺🇸 [Building a TodoMVC with Twilio Sync and JavaScript](https://www.twilio.com/blog/2017/09/building-a-todomvc-with-twilio-sync.html) | September 28, 2017
 
 ### Print
 
