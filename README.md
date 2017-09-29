@@ -77,6 +77,7 @@ You can find some of his previous talks here:
 | [SHA2017](https://sha2017.org) | Zeewolde,&nbsp;🇳🇱 | August 6, 2017 | [Coffee && JS - Getting started with Nodebots](https://github.com/dkundel/nodebots-workshop) | [🖥 Slides](https://speakerdeck.com/dkundel/sha2017-coffee-machines-and-and-javascript-intro-to-nodebots) <br> [:octocat: Code](https://github.com/dkundel/nodebots-workshop) |
 | [HackCon EU '17](https://hackcon.mlh.io/events/europe/) | Birmingham,&nbsp;🇬🇧 | September 16, 2017 | Making hackathons feel like home for everyone (Discussion) | |
 | [FRONTEND-CON 2017](http://frontend-con.io/) | Warsaw,&nbsp;🇵🇱 | September 22, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/frontend-con-17-getting-started-with-typescript) |
+| [code.talks 2017](https://www.codetalks.de/en/2017/programm) | Hamburg,&nbsp;🇩🇪 | September 29, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/code-dot-talks-2017-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 
 ## ✏️ Technical Writing
 
