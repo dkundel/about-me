@@ -78,6 +78,8 @@ You can find some of his previous talks here:
 | [HackCon EU '17](https://hackcon.mlh.io/events/europe/) | Birmingham,&nbsp;🇬🇧 | September 16, 2017 | Making hackathons feel like home for everyone (Discussion) | |
 | [FRONTEND-CON 2017](http://frontend-con.io/) | Warsaw,&nbsp;🇵🇱 | September 22, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/frontend-con-17-getting-started-with-typescript) |
 | [code.talks 2017](https://www.codetalks.de/en/2017/programm) | Hamburg,&nbsp;🇩🇪 | September 29, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/code-dot-talks-2017-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
+| [Topconf Dusseldorf 2017](https://www.topconf.com/conference/duesseldorf-2017/) | Düsseldorf,&nbsp;🇩🇪 | October 5, 2017 | [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) | [🖥 Slides](http://kundel.co/hybrid-appocalypse/topconf-de-17/) |
+| [Topconf Dusseldorf 2017](https://www.topconf.com/conference/duesseldorf-2017/) | Düsseldorf,&nbsp;🇩🇪 | October 5, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/topconf-de-17-getting-started-with-typescript) |
 
 ## ✏️ Technical Writing
 
