@@ -80,6 +80,7 @@ You can find some of his previous talks here:
 | [code.talks 2017](https://www.codetalks.de/en/2017/programm) | Hamburg,&nbsp;🇩🇪 | September 29, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/code-dot-talks-2017-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) [📹 Video](https://www.youtube.com/watch?v=f-KEbPqLHUg) |
 | [Topconf Dusseldorf 2017](https://www.topconf.com/conference/duesseldorf-2017/) | Düsseldorf,&nbsp;🇩🇪 | October 5, 2017 | [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) | [🖥 Slides](http://kundel.co/hybrid-appocalypse/topconf-de-17/) |
 | [Topconf Dusseldorf 2017](https://www.topconf.com/conference/duesseldorf-2017/) | Düsseldorf,&nbsp;🇩🇪 | October 5, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/topconf-de-17-getting-started-with-typescript) |
+| [View Source Conference London](https://viewsourceconf.org/london-2017/) | London,&nbsp;🇬🇧 | October 27, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/view-source-london-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 
 ## ✏️ Technical Writing
 
