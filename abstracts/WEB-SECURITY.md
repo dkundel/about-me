@@ -1,4 +1,4 @@
-# Introduction to Web Application Security
+# XSS, CSRF, CSP, JWT, WTF? IDK ¯\_(ツ)_/¯
 
 Robert'); DROP TABLE Students;-- The little Bobby Tables is embodying the classical fear of SQL injections when building web applications. 
 
