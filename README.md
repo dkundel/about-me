@@ -82,6 +82,7 @@ You can find some of his previous talks here:
 | [Topconf Dusseldorf 2017](https://www.topconf.com/conference/duesseldorf-2017/) | Düsseldorf,&nbsp;🇩🇪 | October 5, 2017 | [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/topconf-de-17-getting-started-with-typescript) |
 | [View Source Conference London](https://viewsourceconf.org/london-2017/) | London,&nbsp;🇬🇧 | October 27, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/view-source-london-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 | [AngularConnect 2017]() | London,&nbsp;🇬🇧 | November 7, 2017 | [Introduction to Web Security](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://bit.ly/sec-angularconnect)<br>[:octocat: Code](https://github.com/dkundel/onesie-life) |
+| [Halfstack Conference London](http://halfstackconf.com/) | London,&nbsp;🇬🇧 | November 17, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/halfstack-london-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 
 ## ✏️ Technical Writing
 
