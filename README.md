@@ -35,6 +35,8 @@ You can find some of his previous talks here:
 
 ## 💬 Current Talk Topics
 
+- [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | JavaScript, Web Components
+- [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | JavaScript, Web Development, Security
 - [Coffee.js - How I hacked my coffee machine using JavaScript](abstracts/COFFEE-JS.md) | JavaScript, Hardware
 - [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) | JavaScript, Desktop applications, Electron, Hybrid
 - [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | TypeScript Introduction
