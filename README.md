@@ -85,6 +85,7 @@ You can find some of his previous talks here:
 | [View Source Conference London](https://viewsourceconf.org/london-2017/) | London,&nbsp;🇬🇧 | October 27, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/view-source-london-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 | [AngularConnect 2017]() | London,&nbsp;🇬🇧 | November 7, 2017 | [Introduction to Web Security](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://bit.ly/sec-angularconnect)<br>[:octocat: Code](https://github.com/dkundel/onesie-life) |
 | [Halfstack Conference London](http://halfstackconf.com/) | London,&nbsp;🇬🇧 | November 17, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/halfstack-london-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
+| [ParisJS #69](http://parisjs.org/) | Paris,&nbsp;🇫🇷 | November 29, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/parisjs-nov-2017-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 
 ## ✏️ Technical Writing
 
