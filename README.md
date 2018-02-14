@@ -86,6 +86,7 @@ You can find some of his previous talks here:
 | [AngularConnect 2017]() | London,&nbsp;🇬🇧 | November 7, 2017 | [Introduction to Web Security](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://bit.ly/sec-angularconnect)<br>[📹 Video](https://www.youtube.com/watch?v=ypUEMDnDODk)<br>[:octocat: Code](https://github.com/dkundel/onesie-life) |
 | [Halfstack Conference London](http://halfstackconf.com/) | London,&nbsp;🇬🇧 | November 17, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/halfstack-london-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 | [ParisJS #69](http://parisjs.org/) | Paris,&nbsp;🇫🇷 | November 29, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/parisjs-nov-2017-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
+| [Angular Berlin #39](https://www.meetup.com/AngularJS-Meetup-Berlin/events/247484371/) | Berlin,&nbsp;🇩🇪 | February 14, 2018 | [2018 - The Year of Web Components](https://github.com/dkundel/about-me/blob/master/abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/angular-berlin-feb-18-2018-the-year-of-web-components) |
 
 ## ✏️ Technical Writing
 
