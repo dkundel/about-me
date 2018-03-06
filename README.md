@@ -87,6 +87,7 @@ You can find some of his previous talks here:
 | [Halfstack Conference London](http://halfstackconf.com/) | London,&nbsp;🇬🇧 | November 17, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/halfstack-london-17-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 | [ParisJS #69](http://parisjs.org/) | Paris,&nbsp;🇫🇷 | November 29, 2017 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/parisjs-nov-2017-coffee-dot-js-how-i-hacked-my-coffee-machine-using-javascript) |
 | [Angular Berlin #39](https://www.meetup.com/AngularJS-Meetup-Berlin/events/247484371/) | Berlin,&nbsp;🇩🇪 | February 14, 2018 | [2018 - The Year of Web Components](https://github.com/dkundel/about-me/blob/master/abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/angular-berlin-feb-18-2018-the-year-of-web-components) |
+| [JSConf Iceland '18](https://2018.jsconf.is/) | Reykjavík,&nbsp;🇮🇸 | March 1, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsconfis) |
 
 ## ✏️ Technical Writing
 
