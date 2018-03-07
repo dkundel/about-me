@@ -32,6 +32,7 @@ You can find some of his previous talks here:
 - ✏️ [Blog moin.world](https://moin.world)
 - 🗣 [Speakerdeck dkundel](https://speakerdeck.com/dkundel)
 - 🏅 [Lanyrd dkundel](http://lanyrd.com/profile/dkundel/)
+- 🖼 [Official Picture](https://i.imgur.com/Hd53Nvz.jpg)
 
 ## 💬 Current Talk Topics
 
