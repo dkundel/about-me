@@ -32,6 +32,8 @@ You can find some of his previous talks here:
 - 📧 [Email dkundel@twilio.com](mailto:dkundel@twilio.com)
 - :octocat: [GitHub dkundel](https://github.com/dkundel)
 - ✏️ [Blog moin.world](https://moin.world)
+- 🌐 [Website dkundel.com](https://dkundel.com)
+- 📦 [npm dkundel](https://npmjs.com/~dkundel)
 - 🗣 [Speakerdeck dkundel](https://speakerdeck.com/dkundel)
 - 🏅 [Lanyrd dkundel](http://lanyrd.com/profile/dkundel/)
 - 🖼 [Official Picture](https://i.imgur.com/Hd53Nvz.jpg)
