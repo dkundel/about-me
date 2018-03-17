@@ -1,16 +1,16 @@
-<p align="center">
-  <img src="images/me-neutral-round.png" width="200">
-  <h1 align="center">Dominik Kundel</h1>
-  <p align="center">
+<div class="info">
+  <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200"></p>
+  <h1 class="name" align="center">Dominik Kundel</h1>
+  <p class="meta-data" align="center">
     ∙ Developer Evangelist at <a target="_blank" href="https://www.twilio.com">Twilio</a> ∙<br>
     ∙ JavaScript hacker ∙<br>
     ∙ Hackathon enthusiast ∙<br>
     ∙ Co-Founder of jacobsHack! ∙
   </p>
-  <p align="center">
+  <p class="info-footer" align="center">
     🥃❤️
   </p>
-</p>
+</div>
 
 ---
 
