@@ -18,6 +18,8 @@
 
 Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and Codebar or work on open source projects. 
 
+### 🎤 Examples of Previous Talks
+
 You can find some of his previous talks here:
 - [Get started writing TypeScript today! at Devoxx Belgium](https://www.youtube.com/watch?v=cIzwsDcAmUM)
 - [Hybrid Appocalypse at Microsoft Technical Summit](https://channel9.msdn.com/Events/microsoft-techncial-summit/Technical-Summit-2016/Hybrid-Appocalypse-The-Web-Technology-Invasion-of-the-Desktop)
@@ -93,7 +95,7 @@ You can find some of his previous talks here:
 
 ## ✏️ Technical Writing
 
-### Online
+### 🌐 Online
 
 - 🇺🇸 [Conference Monitoring á la Iron Man](https://www.twilio.com/blog/2016/05/conference-call-monitoring-twilio.html) | May 20, 2016
 - 🇺🇸 [Supercharge your Twilio API calls with Add-ons](https://www.twilio.com/blog/2016/05/supercharge-your-twilio-api-calls-with-add-ons.html) | May 24, 2016
@@ -119,6 +121,6 @@ You can find some of his previous talks here:
 - 🇺🇸 [Going surfing - Protect your Node.js app from Cross-Site Request Forgery](https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html) | January 11, 2018
 - 🇺🇸 [Creating and Publishing Web Components with Stencil](https://www.twilio.com/blog/2018/02/creating-and-publishing-web-components-with-stencil.html) | February 14, 2018
 
-### Print
+### 📰 Print
 
 - 🇩🇪 [TypeScript, JavaScript++?](https://screengui.de/35/typescript) | Screenguide #35, 07-09/2017
