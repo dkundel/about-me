@@ -1,6 +1,6 @@
 <div class="info">
   <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200"></p>
-  <h1 class="name" align="center">Dominik Kundel</h1>
+  <h1 class="name" align="center"><span>Dominik Kundel</span></h1>
   <p class="meta-data" align="center">
     ∙ Developer Evangelist at <a target="_blank" href="https://www.twilio.com">Twilio</a> ∙<br>
     ∙ JavaScript hacker ∙<br>
