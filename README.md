@@ -2,13 +2,13 @@
   <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200"></p>
   <h1 class="name" align="center"><span>Dominik Kundel</span></h1>
   <p class="meta-data" align="center">
-    ∙ Developer Evangelist at <a target="_blank" href="https://www.twilio.com">Twilio</a> ∙<br>
-    ∙ JavaScript hacker ∙<br>
-    ∙ Hackathon enthusiast ∙<br>
-    ∙ Co-Founder of jacobsHack! ∙
+    ✨ Developer Evangelist at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
+    ✨ JavaScript hacker ✨<br/>
+    ✨ Hackathon enthusiast ✨<br/>
+    ✨ Public speaker ✨
   </p>
   <p class="info-footer" align="center">
-    🥃❤️
+    🥃❤️🐼
   </p>
 </div>
 
