@@ -46,6 +46,7 @@ You can find some of his previous talks here:
 - [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) | JavaScript, Desktop applications, Electron, Hybrid
 - [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | TypeScript Introduction
 - [2FA, WTF?](abstracts/2FA-WTF.md) | Two-Factor Authentication, Security, One-Time-Passwords
+- [When Porgs Scream at Webpack and Other Stories](abstracts/HARDWARE_FOR_WEB_DEVS.md) | Hardware, JavaScript, Hacking, Nodebots
 
 ## 💻 Open Source Projects
 
