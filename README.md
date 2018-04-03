@@ -123,8 +123,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Putting the helmet on - Securing your Express app](https://www.twilio.com/blog/2017/11/securing-your-express-app.html) | November 21, 2017
 - 🇺🇸 [Going surfing - Protect your Node.js app from Cross-Site Request Forgery](https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html) | January 11, 2018
 - 🇺🇸 [Creating and Publishing Web Components with Stencil](https://www.twilio.com/blog/2018/02/creating-and-publishing-web-components-with-stencil.html) | February 14, 2018
-- 🇺🇸 [
-Serving Coffee with Twilio Programmable SMS and React](https://www.twilio.com/blog/2018/03/serving-coffee-with-sms-and-react.html) | April 1, 2018
+- 🇺🇸 [Serving Coffee with Twilio Programmable SMS and React](https://www.twilio.com/blog/2018/03/serving-coffee-with-sms-and-react.html) | April 1, 2018
 
 ### 📰 Print
 
