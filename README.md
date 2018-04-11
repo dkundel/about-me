@@ -21,6 +21,7 @@ Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for Jav
 ### 🎤 Examples of Previous Talks
 
 You can find some of his previous talks here:
+- [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯ at JSConf Iceland](https://www.youtube.com/watch?v=c6mqdsfWdmE)
 - [Get started writing TypeScript today! at Devoxx Belgium](https://www.youtube.com/watch?v=cIzwsDcAmUM)
 - [Hybrid Appocalypse at Microsoft Technical Summit](https://channel9.msdn.com/Events/microsoft-techncial-summit/Technical-Summit-2016/Hybrid-Appocalypse-The-Web-Technology-Invasion-of-the-Desktop)
 - [2FA, WTF? at Devoxx Poland](https://www.youtube.com/watch?v=b5ZJZETkCoM)
