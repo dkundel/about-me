@@ -96,7 +96,8 @@ You can find some of his previous talks here:
 | [Angular Berlin #39](https://www.meetup.com/AngularJS-Meetup-Berlin/events/247484371/) | Berlin,&nbsp;🇩🇪 | February 14, 2018 | [2018 - The Year of Web Components](https://github.com/dkundel/about-me/blob/master/abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/angular-berlin-feb-18-2018-the-year-of-web-components) |
 | [JSConf Iceland '18](https://2018.jsconf.is/) | Reykjavík,&nbsp;🇮🇸 | March 1, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsconfis)<br>[📹 Video](https://www.youtube.com/watch?v=c6mqdsfWdmE) |
 | [Node.js Berlin March '18](https://www.meetup.com/Node-js-Meetup-Berlin/events/246514261) | Berlin,&nbsp;🇩🇪 | March 13, 2018 | [Hardware for Web Developers](abstracts/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/node-dot-js-berlin-march-18-hardware-hacking-for-web-developers) |
-| [Jacobs University CS Club Meetup](https://www.facebook.com/groups/cs.club.jacobs/) | Bremen,&nbsp;🇩🇪 | March 1, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://speakerdeck.com/dkundel/-22) |
+| [JSHeroes '18](https://jsheroes.io) | Cluj-Napoca,&nbsp;🇷🇴 | April 19, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsheroes) |
+| [JSUnconf '18](https://2018.jsunconf.eu) | Hamburg,&nbsp;🇩🇪 | April 21, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsunconf) |
 
 ## ✏️ Technical Writing
 
