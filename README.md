@@ -98,6 +98,8 @@ You can find some of his previous talks here:
 | [Node.js Berlin March '18](https://www.meetup.com/Node-js-Meetup-Berlin/events/246514261) | Berlin,&nbsp;🇩🇪 | March 13, 2018 | [Hardware for Web Developers](abstracts/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/node-dot-js-berlin-march-18-hardware-hacking-for-web-developers) |
 | [JSHeroes '18](https://jsheroes.io) | Cluj-Napoca,&nbsp;🇷🇴 | April 19, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsheroes)<br>[📹 Video](https://www.youtube.com/watch?v=sHKyMwIK9F0) |
 | [JSUnconf '18](https://2018.jsunconf.eu) | Hamburg,&nbsp;🇩🇪 | April 21, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsunconf)<br>[📹 Video](https://www.youtube.com/watch?v=-vYak5hEGrY) |
+| [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 14, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-ndcoslo) |
+| [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 15, 2018 | [Prison Break - When the web escapes the Browser](abstracts/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://d-k.im/hardware-ndcoslo) |
 
 ## ✏️ Technical Writing
 
