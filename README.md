@@ -103,6 +103,7 @@ You can find some of his previous talks here:
 | [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 14, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-ndcoslo) |
 | [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 15, 2018 | [Prison Break - When the web escapes the Browser](abstracts/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://d-k.im/hardware-ndcoslo) |
 | [Developer Week '18](https://developer-week.de/) | Nuremberg,&nbsp;🇩🇪 | June 26, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-dwx) |
+| [Developer Week '18](https://developer-week.de) | Nuremberg,&nbsp;🇩🇪 | June 27, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-dwx2018) |
 
 ## ✏️ Technical Writing
 
