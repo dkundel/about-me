@@ -134,6 +134,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Creating and Publishing Web Components with Stencil](https://www.twilio.com/blog/2018/02/creating-and-publishing-web-components-with-stencil.html) | February 14, 2018
 - 🇺🇸 [Serving Coffee with Twilio Programmable SMS and React](https://www.twilio.com/blog/2018/03/serving-coffee-with-sms-and-react.html) | April 1, 2018
 - 🇺🇸 [Building a Chat with Twilio, lit-html, Parcel and TypeScript](https://www.twilio.com/blog/2018/05/building-a-chat-with-twilio-lit-html-parcel-and-typescript.html) | May 15, 2018
+- 🇺🇸 [Bulk redact and delete Twilio SMS and call logs using Node.js](https://www.twilio.com/blog/2018/08/bulk-redacting-deleting-twilio-sms-and-call-logs.html) | August 1, 2018
 
 ### 📰 Print
 
