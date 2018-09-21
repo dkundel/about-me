@@ -100,10 +100,12 @@ You can find some of his previous talks here:
 | [JSUnconf '18](https://2018.jsunconf.eu) | Hamburg,&nbsp;🇩🇪 | April 21, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-jsunconf)<br>[📹 Video](https://www.youtube.com/watch?v=-vYak5hEGrY) |
 | [BerlinJS JSConf EU '18 Special](https://jsconf.berlinjs.org) | Berlin,&nbsp;🇩🇪 | May 31, 2018 | Lightning Talk about[`porgjs`](https://github.com/dkundel/porgjs) | |
 | [Angular Oslo June '18](https://www.meetup.com/AngularJS-Oslo/events/251229797/) | Oslo,&nbsp;🇳🇴 | June 12, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-ngoslo) |
-| [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 14, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-ndcoslo) |
-| [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 15, 2018 | [Prison Break - When the web escapes the Browser](abstracts/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://d-k.im/hardware-ndcoslo) |
+| [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 14, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-ndcoslo)<br>[📹 Video](https://www.youtube.com/watch?v=SgnE3p1qF-c) |
+| [NDC Oslo '18](https://ndcoslo.com) | Oslo,&nbsp;🇳🇴 | June 15, 2018 | [Prison Break - When the web escapes the Browser](abstracts/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://d-k.im/hardware-ndcoslo)<br>[📹 Video](https://www.youtube.com/watch?v=4x2qLgz9SqU) |
 | [Developer Week '18](https://developer-week.de/) | Nuremberg,&nbsp;🇩🇪 | June 26, 2018 | [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | [🖥 Slides](https://d-k.im/sec-dwx) |
 | [Developer Week '18](https://developer-week.de) | Nuremberg,&nbsp;🇩🇪 | June 27, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-dwx2018) |
+| [React Alicante '18](http://reactalicante.es/) | Alicante,&nbsp;🇪🇸 | September 14, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-reactalicante)<br>[📹 Video](https://youtu.be/XccElbMiWto) |
+| [Berlin.js](http://berlinjs.org/) | Berlin,&nbsp;🇩🇪 | September 20, 2018 | [When Porgs scream at Webpack and other Stories](abstract/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://d-k.im/hardware-berlinjs) |
 
 ## ✏️ Technical Writing
 
