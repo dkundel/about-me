@@ -106,6 +106,10 @@ You can find some of his previous talks here:
 | [Developer Week '18](https://developer-week.de) | Nuremberg,&nbsp;🇩🇪 | June 27, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-dwx2018) |
 | [React Alicante '18](http://reactalicante.es/) | Alicante,&nbsp;🇪🇸 | September 14, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://d-k.im/webcomp-reactalicante)<br>[📹 Video](https://youtu.be/XccElbMiWto) |
 | [Berlin.js](http://berlinjs.org/) | Berlin,&nbsp;🇩🇪 | September 20, 2018 | [When Porgs scream at Webpack and other Stories](abstract/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://d-k.im/hardware-berlinjs) |
+| [SinnerSchrader TechSessions '18](https://www.meetup.com/de-DE/sinnerschrader-hamburg/events/253540108/) | Hamburg,&nbsp;🇩🇪 | October 11, 2018 | [What the AST?](abstracts/WHAT-THE-AST.md) | [🖥 Slides](https://speakerdeck.com/dkundel/sinnerschrader-tech-session-18-what-the-ast) |
+| [SinnerSchrader TechSessions '18](https://www.meetup.com/de-DE/sinnerschrader-hamburg/events/253540108/) | Hamburg,&nbsp;🇩🇪 | October 11, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/sinnerschrader-tech-session-18-2018-the-year-of-web-components) |
+| [RuhrJS '18](https://ruhrjs.de/) | Bochum,&nbsp;🇩🇪 | October 13, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/ruhrjs-18-2018-the-year-of-web-components)<br>[📹 Video](https://www.youtube.com/watch?v=qaHAVwVloUQ) |
+| [jsPoland '18](https://js-poland.pl/) | Warsaw,&nbsp;🇵🇱 | November 16, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/jspoland-18-2018-the-year-of-web-components) |
 
 ## ✏️ Technical Writing
 
