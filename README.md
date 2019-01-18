@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Biography
 
-Dominik is a Developer Evangelist for Twilio in Berlin. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and Codebar or work on open source projects. 
+Dominik is a Developer Evangelist for Twilio in San Francisco. He has a passion for JavaScript, hackathons, teaching and good whiskey. You will usually find him speaking at meetups and conferences, mentoring at hackathons and workshops or work on open source projects. 
 
 ### 🎤 Examples of Previous Talks
 
