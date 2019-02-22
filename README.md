@@ -143,7 +143,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [Serving Coffee with Twilio Programmable SMS and React](https://www.twilio.com/blog/2018/03/serving-coffee-with-sms-and-react.html) | April 1, 2018
 - 🇺🇸 [Building a Chat with Twilio, lit-html, Parcel and TypeScript](https://www.twilio.com/blog/2018/05/building-a-chat-with-twilio-lit-html-parcel-and-typescript.html) | May 15, 2018
 - 🇺🇸 [Building an npm search bot with WhatsApp and Twilio](https://www.twilio.com/blog/2018/08/build-npm-search-bot-whatsapp-twilio.html) | August 2, 2018
-- 🇺🇸 [Locally developing and debugging Twilio Functions](d-k.im/intro-twilio-run) | February 19, 2019
+- 🇺🇸 [Locally developing and debugging Twilio Functions](https://d-k.im/intro-twilio-run) | February 19, 2019
+- 🇺🇸 [Building an Intelligent Coffee Order System with Twilio Autopilot](https://d-k.im/coffee-autopilot) | February 21, 2019
 
 ### 📰 Print
 
