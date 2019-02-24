@@ -30,7 +30,7 @@ You can find some of his previous talks here:
 ## 👥 Social Channels
 
 - 🐦 [Twitter @dkundel](https://twitter.com/dkundel)
-- 📧 [Email dkundel@twilio.com](mailto:dkundel@twilio.com)
+- 📧 [Email hi@dkundel.com](mailto:hi@dkundel.com)
 - :octocat: [GitHub dkundel](https://github.com/dkundel)
 - ✏️ [Blog moin.world](https://moin.world)
 - 🌐 [Website dkundel.com](https://dkundel.com)
