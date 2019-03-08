@@ -145,6 +145,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Building an npm search bot with WhatsApp and Twilio](https://www.twilio.com/blog/2018/08/build-npm-search-bot-whatsapp-twilio.html) | August 2, 2018
 - 🇺🇸 [Locally developing and debugging Twilio Functions](https://d-k.im/intro-twilio-run) | February 19, 2019
 - 🇺🇸 [Building an Intelligent Coffee Order System with Twilio Autopilot](https://d-k.im/coffee-autopilot) | February 21, 2019
+- 🇺🇸 [SMS Forwarding and Responding using Twilio and JavaScript](https://d-k.im/forward-sms-js) | March 8, 2019
 
 ### 📰 Print
 
