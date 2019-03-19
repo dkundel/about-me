@@ -146,6 +146,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Locally developing and debugging Twilio Functions](https://d-k.im/intro-twilio-run) | February 19, 2019
 - 🇺🇸 [Building an Intelligent Coffee Order System with Twilio Autopilot](https://d-k.im/coffee-autopilot) | February 21, 2019
 - 🇺🇸 [SMS Forwarding and Responding using Twilio and JavaScript](https://d-k.im/forward-sms-js) | March 8, 2019
+- 🇺🇸 [How to Build a CLI in Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js) | March 19, 2019
 
 ### 📰 Print
 
