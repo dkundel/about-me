@@ -1,5 +1,5 @@
 <div class="info">
-  <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200"></p>
+  <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200" alt="Image of Dominik Kundel looking into camera"></p>
   <h1 class="name" align="center"><span>Dominik Kundel</span></h1>
   <p class="meta-data" align="center">
     ✨ Developer Evangelist at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
