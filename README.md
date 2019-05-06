@@ -149,6 +149,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [SMS Forwarding and Responding using Twilio and JavaScript](https://d-k.im/forward-sms-js) | March 8, 2019
 - 🇺🇸 [How to Build a CLI in Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js) | March 19, 2019
 - 🇺🇸 [Send Images and Other Media via WhatsApp Using Node.js](https://d-k.im/whatsapp-images-nodejs) | April 16, 2019
+- 🇺🇸 [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging) | May 6, 2019
 
 ### 📰 Print
 
