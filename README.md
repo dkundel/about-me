@@ -113,6 +113,7 @@ You can find some of his previous talks here:
 | [RuhrJS '18](https://ruhrjs.de/) | Bochum,&nbsp;🇩🇪 | October 13, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/ruhrjs-18-2018-the-year-of-web-components)<br>[📹 Video](https://www.youtube.com/watch?v=qaHAVwVloUQ) |
 | [jsPoland '18](https://js-poland.pl/) | Warsaw,&nbsp;🇵🇱 | November 16, 2018 | [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/jspoland-18-2018-the-year-of-web-components)<br>[📹 Video](https://www.youtube.com/watch?v=2sBBhieH_ls) |
 | [WaffleJS April '19](https://wafflejs.com/?day=2019-04-03) | San Francisco,&nbsp;🇺🇸 | April 3, 2019 | [Coffee.js - How I hacked my Coffee Machine using JavaScript](abstracts/COFFEE-JS.md) | [🖥 Slides](https://d-k.im/waffle-coffee) |
+| [SIGNAL '19](https://s.signal.twilio.com/twiliosignalabstractsessiondetails?aId=YTFTNFAwMDAwMFY4bWNHVUFS&spkr=Vinci%20Chen) | San Francisco,&nbsp;🇺🇸 | August 7, 2019 | [Leveraging the Serverless API to manage your deployment process](https://s.signal.twilio.com/twiliosignalabstractsessiondetails?aId=YTFTNFAwMDAwMFY4bWNHVUFS&spkr=Vinci%20Chen) | [🖥 Slides](https://speakerdeck.com/dkundel/signal-19-leveraging-the-serverless-api-to-manage-your-deployment-process)<br>[📹 Video](https://www.youtube.com/watch?v=XT2Su8gcQWk) |
 
 ## ✏️ Technical Writing
 
