@@ -154,6 +154,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [A Guide to Node.js Logging](https://www.twilio.com/blog/guide-node-js-logging) | May 6, 2019
 - 🇺🇸 [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) | May 17, 2019
 - 🇺🇸 [Creating a virtual photo booth using Twilio, WhatsApp & Cloudinary](https://www.twilio.com/blog/virtual-photo-booth-twilio-whatsapp-cloudinary) | July 16, 2019
+- 🇺🇸 [Using Twilio Functions with TypeScript](https://www.twilio.com/blog/twilio-functions-typescript) | September 3, 2019
 
 ### 📰 Print
 
