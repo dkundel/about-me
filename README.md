@@ -155,6 +155,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) | May 17, 2019
 - 🇺🇸 [Creating a virtual photo booth using Twilio, WhatsApp & Cloudinary](https://www.twilio.com/blog/virtual-photo-booth-twilio-whatsapp-cloudinary) | July 16, 2019
 - 🇺🇸 [Using Twilio Functions with TypeScript](https://www.twilio.com/blog/twilio-functions-typescript) | September 3, 2019
+- 🇺🇸 [Ahoy Hacktoberfest 2019](https://www.twilio.com/blog/ahoy-hacktoberfest-2019) | October 1, 2019
+- 🇺🇸 [Learn How to Contribute to Open Source](https://www.twilio.com/blog/learn-contribute-open-source) | October 1, 2019
 
 ### 📰 Print
 
