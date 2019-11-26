@@ -159,6 +159,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Learn How to Contribute to Open Source](https://www.twilio.com/blog/learn-contribute-open-source) | October 1, 2019
 - 🇺🇸 [Open Source Tips from Maintainers for Maintainers](https://dev.to/twilio/open-source-tips-from-maintainers-for-maintainers-3obb) | October 18, 2019
 - 🇺🇸 [Thank you to over 1000 contributors](https://www.twilio.com/blog/thank-you-contributors) | October 28, 2019
+- 🇺🇸 [Sending SMS from GitHub Actions](https://www.twilio.com/blog/sending-sms-github-actions) | November 26, 2019
 
 ### 📰 Print
 
