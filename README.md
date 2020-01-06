@@ -41,13 +41,13 @@ You can find some of his previous talks here:
 
 ## 💬 Current Talk Topics
 
-- [2018 - The Year of Web Components](abstracts/WEB-COMPONENTS.md) | JavaScript, Web Components
-- [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | JavaScript, Web Development, Security
-- [Coffee.js - How I hacked my coffee machine using JavaScript](abstracts/COFFEE-JS.md) | JavaScript, Hardware
-- [Hybrid Appocalypse](abstracts/HYBRID-APPOCALYPSE.md) | JavaScript, Desktop applications, Electron, Hybrid
-- [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | TypeScript Introduction
-- [2FA, WTF?](abstracts/2FA-WTF.md) | Two-Factor Authentication, Security, One-Time-Passwords
 - [When Porgs Scream at Webpack and Other Stories](abstracts/HARDWARE_FOR_WEB_DEVS.md) | Hardware, JavaScript, Hacking, Nodebots
+- [Type as much as you want - How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | JavaScript, TypeScript
+- [Make Web Not War](abstracts/MAKE_WEB_NOT_WAR.md) | JavaScript, Web Development
+- [What the AST?](abstracts/WHAT-THE-AST.md) | Tools, Engineering
+- [The bots are stealing our jobs](abstracts/AUTOMATION.md) | JavaScript, Automation, Tools, Open Source
+- [XSS, CSRF, CSP, JWT, WTF? IDK ¯\\\_(ツ)\_/¯](abstracts/WEB-SECURITY.md) | JavaScript, Web Development, Security
+- [Get started writing TypeScript today!](abstracts/GET-STARTED-WITH-TYPESCRIPT.md) | TypeScript Introduction
 
 ## 💻 Open Source Projects
 
@@ -116,7 +116,7 @@ You can find some of his previous talks here:
 | [SIGNAL '19](https://s.signal.twilio.com/twiliosignalabstractsessiondetails?aId=YTFTNFAwMDAwMFY4bWNHVUFS&spkr=Vinci%20Chen) | San Francisco,&nbsp;🇺🇸 | August 7, 2019 | [Leveraging the Serverless API to manage your deployment process](https://s.signal.twilio.com/twiliosignalabstractsessiondetails?aId=YTFTNFAwMDAwMFY4bWNHVUFS&spkr=Vinci%20Chen) | [🖥 Slides](https://speakerdeck.com/dkundel/signal-19-leveraging-the-serverless-api-to-manage-your-deployment-process)<br>[📹 Video](https://www.youtube.com/watch?v=XT2Su8gcQWk) |
 | [JSConf US '19](https://2019.jsconf.us) | Carlsbad, CA,&nbsp;🇺🇸 | August 14, 2019 | [Make Web Not War](abstracts/MAKE_WEB_NOT_WAR.md) | [🖥 Slides](https://speakerdeck.com/dkundel/jsconf-us-19-make-web-not-war) |
 | [CascadiaJS '19](https://2019.cascadiajs.com) | Seattle, WA,&nbsp;🇺🇸 | November 8, 2019 | [When Porgs scream at Webpack and other Stories](abstract/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/cascadiajs-19-when-porgs-scream-at-webpack-and-other-stories) |
-| [Microsoft Developer Holiday Meetup](https://www.meetup.com/msdevmtl/events/266386725/) | Montreal, QC,&nbsp;🇨🇦 | December 10, 2019 | How to move your project to TypeScript | [🖥 Slides](https://speakerdeck.com/dkundel/msdev-montreal-holiday-meetup-19-how-to-move-your-project-to-typescript) |
+| [Microsoft Developer Holiday Meetup](https://www.meetup.com/msdevmtl/events/266386725/) | Montreal, QC,&nbsp;🇨🇦 | December 10, 2019 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/msdev-montreal-holiday-meetup-19-how-to-move-your-project-to-typescript) |
 
 ## ✏️ Technical Writing
 
