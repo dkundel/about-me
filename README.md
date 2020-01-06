@@ -162,6 +162,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Open Source Tips from Maintainers for Maintainers](https://dev.to/twilio/open-source-tips-from-maintainers-for-maintainers-3obb) | October 18, 2019
 - 🇺🇸 [Thank you to over 1000 contributors](https://www.twilio.com/blog/thank-you-contributors) | October 28, 2019
 - 🇺🇸 [Sending SMS from GitHub Actions](https://www.twilio.com/blog/sending-sms-github-actions) | November 26, 2019
+- 🇺🇸 [How to move your project to TypeScript - at your own pace](https://www.twilio.com/blog/move-to-typescript) | January 6, 2020
 
 ### 📰 Print
 
