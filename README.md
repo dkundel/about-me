@@ -117,6 +117,8 @@ You can find some of his previous talks here:
 | [JSConf US '19](https://2019.jsconf.us) | Carlsbad, CA,&nbsp;🇺🇸 | August 14, 2019 | [Make Web Not War](abstracts/MAKE_WEB_NOT_WAR.md) | [🖥 Slides](https://speakerdeck.com/dkundel/jsconf-us-19-make-web-not-war) |
 | [CascadiaJS '19](https://2019.cascadiajs.com) | Seattle, WA,&nbsp;🇺🇸 | November 8, 2019 | [When Porgs scream at Webpack and other Stories](abstract/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/cascadiajs-19-when-porgs-scream-at-webpack-and-other-stories)<br>[📹 Video](https://www.youtube.com/watch?v=3wx806HOgnA) |
 | [Microsoft Developer Holiday Meetup](https://www.meetup.com/msdevmtl/events/266386725/) | Montreal, QC,&nbsp;🇨🇦 | December 10, 2019 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/msdev-montreal-holiday-meetup-19-how-to-move-your-project-to-typescript) |
+| [Node+JS Interactive '19](https://events19.linuxfoundation.org/events/nodejs-interactive-2019/) | Montreal, QC,&nbsp;🇨🇦 | December 12, 2019 | [When Porgs scream at Webpack and other Stories](abstract/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/node-plus-js-interactive-19-when-porgs-scream-at-webpack-and-other-stories) |
+| [SFNode Jan '20](https://www.meetup.com/sfnode/events/hdgjmrybccbdb/) | San Francisco, CA,&nbsp;🇺🇸 | December 10, 2019 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/sfnode-20-how-to-move-your-project-to-typescript) |
 
 ## ✏️ Technical Writing
 
