@@ -166,6 +166,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Sending SMS from GitHub Actions](https://www.twilio.com/blog/sending-sms-github-actions) | November 26, 2019
 - 🇺🇸 [How to apply a promo code](https://www.twilio.com/blog/apply-promo-code) | November 26, 2019
 - 🇺🇸 [How to move your project to TypeScript - at your own pace](https://www.twilio.com/blog/move-to-typescript) | January 6, 2020
+- 🇺🇸 [Three Things You Didn't Know You Could Do with npm Scripts](https://www.twilio.com/blog/npm-scripts) | March 2, 2020
 
 ### 📰 Print
 
