@@ -38,6 +38,7 @@ You can find some of his previous talks here:
 - 🗣 [Speakerdeck dkundel](https://speakerdeck.com/dkundel)
 - 🏅 [Lanyrd dkundel](http://lanyrd.com/profile/dkundel/)
 - 🖼 [Official Picture](https://i.imgur.com/Hd53Nvz.jpg)
+- 📸 [Instagram](https://instagram.com/cocktail.and.code)
 
 ## 💬 Current Talk Topics
 
