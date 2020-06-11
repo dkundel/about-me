@@ -169,6 +169,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [How to apply a promo code](https://www.twilio.com/blog/apply-promo-code) | November 26, 2019
 - 🇺🇸 [How to move your project to TypeScript - at your own pace](https://www.twilio.com/blog/move-to-typescript) | January 6, 2020
 - 🇺🇸 [Three Things You Didn't Know You Could Do with npm Scripts](https://www.twilio.com/blog/npm-scripts) | March 2, 2020
+- 🇺🇸 [Congratulations to the winners of the Twilio x DEV hackathon](https://www.twilio.com/blog/announcing-dev-hack-winners-april) | May 5, 2020
+- 🇺🇸 [ASTs - What are they and how to use them](https://www.twilio.com/blog/abstract-syntax-trees) | June 11, 2020
 
 ### 📰 Print
 
