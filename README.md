@@ -121,6 +121,7 @@ You can find some of his previous talks here:
 | [Node+JS Interactive '19](https://events19.linuxfoundation.org/events/nodejs-interactive-2019/) | Montreal, QC,&nbsp;🇨🇦 | December 12, 2019 | [When Porgs scream at Webpack and other Stories](abstract/HARDWARE_FOR_WEB_DEVS.md) | [🖥 Slides](https://speakerdeck.com/dkundel/node-plus-js-interactive-19-when-porgs-scream-at-webpack-and-other-stories) |
 | [SFNode Jan '20](https://www.meetup.com/sfnode/events/hdgjmrybccbdb/) | San Francisco, CA,&nbsp;🇺🇸 | January 9, 2020 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/sfnode-20-how-to-move-your-project-to-typescript) |
 | [WFHConf '20](https://community.nearform.com/wfh-conf) | Online,&nbsp;🌐 | March 27, 2020 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/wfhconf-move-to-typescript-at-your-own-pace)<br>[📹 Video](https://www.youtube.com/watch?v=JA5pFAijI30) |
+| [OpenJS World '20](https://events.linuxfoundation.org/openjs-world/) | Online,&nbsp;🌐 | June 23, 2020 | [What the AST?](abstracts/WHAT-THE-AST.md) | [🖥 Slides](https://speakerdeck.com/dkundel/openjs-world-what-the-ast)<br>[📹 Video](https://www.youtube.com/watch?v=BtD2OrlLBhI) |
 
 ## ✏️ Technical Writing
 
