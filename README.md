@@ -2,7 +2,7 @@
   <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200" alt="Image of Dominik Kundel looking into camera"></p>
   <h1 class="name" align="center"><span>Dominik Kundel</span></h1>
   <p class="meta-data" align="center">
-    ✨ Developer Evangelist at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
+    ✨ Developer Advocate at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
     ✨ JavaScript hacker ✨<br/>
     ✨ Hackathon enthusiast ✨<br/>
     ✨ Public speaker ✨
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Biography
 
-Dominik is a Developer Evangelist for Twilio in San Francisco. He loves tinkering with anything that can run JavaScript, from the front-end over servers to CLIs and [coffee machines](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/), he ran JavaScript anywhere he could. You can find him tweeting [@dkundel](https://twitter.com/dkundel) or working on open source projects for [CodeExchange](https://www.twilio.com/code-exchange) and [Twilio Labs](https://www.twilio.com/labs). In his spare time he's working on [cocktail, food and photography projects](https://instagram.com/cocktail.and.code).
+Dominik is a Developer Advocate for Twilio in San Francisco. He loves tinkering with anything that can run JavaScript, from the front-end over servers to CLIs and [coffee machines](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/), he ran JavaScript anywhere he could. You can find him tweeting [@dkundel](https://twitter.com/dkundel) or working on open source projects for [CodeExchange](https://www.twilio.com/code-exchange) and [Twilio Labs](https://www.twilio.com/labs). In his spare time he's working on [cocktail, food and photography projects](https://instagram.com/cocktail.and.code).
 
 ### 🎤 Examples of Previous Talks
 
