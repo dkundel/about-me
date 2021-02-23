@@ -172,6 +172,9 @@ You can find some of his previous talks here:
 - 🇺🇸 [Three Things You Didn't Know You Could Do with npm Scripts](https://www.twilio.com/blog/npm-scripts) | March 2, 2020
 - 🇺🇸 [Congratulations to the winners of the Twilio x DEV hackathon](https://www.twilio.com/blog/announcing-dev-hack-winners-april) | May 5, 2020
 - 🇺🇸 [ASTs - What are they and how to use them](https://www.twilio.com/blog/abstract-syntax-trees) | June 11, 2020
+- 🇺🇸 [Introducing SIGNAL Developer Mode](https://www.twilio.com/blog/signal-developer-mode) | September 29, 2020
+- 🇺🇸 [How we built a terminal interface for our conference using React](https://www.twilio.com/blog/building-conference-cli-in-react) | September 30, 2020
+- 🇺🇸 [Move your Twilio Functions Project to Node 12](https://www.twilio.com/blog/move-twilio-functions-node-12) | February 23, 2021
 
 ### 📰 Print
 
