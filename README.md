@@ -175,6 +175,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Introducing SIGNAL Developer Mode](https://www.twilio.com/blog/signal-developer-mode) | September 29, 2020
 - 🇺🇸 [How we built a terminal interface for our conference using React](https://www.twilio.com/blog/building-conference-cli-in-react) | September 30, 2020
 - 🇺🇸 [Move your Twilio Functions Project to Node 12](https://www.twilio.com/blog/move-twilio-functions-node-12) | February 23, 2021
+- 🇺🇸 [US A2P10DLC for Developers](https://www.twilio.com/blog/us-a2p10dlc-for-developers) | March 15, 2021
 
 ### 📰 Print
 
