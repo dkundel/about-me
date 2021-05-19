@@ -176,6 +176,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [How we built a terminal interface for our conference using React](https://www.twilio.com/blog/building-conference-cli-in-react) | September 30, 2020
 - 🇺🇸 [Move your Twilio Functions Project to Node 12](https://www.twilio.com/blog/move-twilio-functions-node-12) | February 23, 2021
 - 🇺🇸 [US A2P10DLC for Developers](https://www.twilio.com/blog/us-a2p10dlc-for-developers) | March 15, 2021
+- 🇺🇸 [New Major Serverless Toolkit Version](https://www.twilio.com/blog/new-major-serverless-toolkit-version) | May 19, 2021
 
 ### 📰 Print
 
