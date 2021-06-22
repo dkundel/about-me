@@ -177,6 +177,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Move your Twilio Functions Project to Node 12](https://www.twilio.com/blog/move-twilio-functions-node-12) | February 23, 2021
 - 🇺🇸 [US A2P10DLC for Developers](https://www.twilio.com/blog/us-a2p10dlc-for-developers) | March 15, 2021
 - 🇺🇸 [New Major Serverless Toolkit Version](https://www.twilio.com/blog/new-major-serverless-toolkit-version) | May 19, 2021
+- 🇺🇸 [How U.S A2P 10DLC Affects Developers and Small Businesses](https://www.twilio.com/blog/a2p10dlc-developers-small-businesses) | June 22, 2021
 
 ### 📰 Print
 
