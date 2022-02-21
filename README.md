@@ -36,7 +36,6 @@ You can find some of his previous talks here:
 - 🌐 [Website dkundel.com](https://dkundel.com)
 - 📦 [npm dkundel](https://npmjs.com/~dkundel)
 - 🗣 [Speakerdeck dkundel](https://speakerdeck.com/dkundel)
-- 🏅 [Lanyrd dkundel](http://lanyrd.com/profile/dkundel/)
 - 🖼 [Official Picture](https://i.imgur.com/Hd53Nvz.jpg)
 - 📸 [Instagram](https://instagram.com/cocktail.and.code)
 
@@ -122,6 +121,7 @@ You can find some of his previous talks here:
 | [SFNode Jan '20](https://www.meetup.com/sfnode/events/hdgjmrybccbdb/) | San Francisco, CA,&nbsp;🇺🇸 | January 9, 2020 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/sfnode-20-how-to-move-your-project-to-typescript) |
 | [WFHConf '20](https://community.nearform.com/wfh-conf) | Online,&nbsp;🌐 | March 27, 2020 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/wfhconf-move-to-typescript-at-your-own-pace)<br>[📹 Video](https://www.youtube.com/watch?v=JA5pFAijI30) |
 | [OpenJS World '20](https://events.linuxfoundation.org/openjs-world/) | Online,&nbsp;🌐 | June 23, 2020 | [What the AST?](abstracts/WHAT-THE-AST.md) | [🖥 Slides](https://speakerdeck.com/dkundel/openjs-world-what-the-ast)<br>[📹 Video](https://www.youtube.com/watch?v=BtD2OrlLBhI) |
+| [SIGNAL '21](https://signal.twilio.com) | Online,&nbsp;🌐 | October 19, 2021 | [Live Developer Mode: Supercharge your Twilio development](https://signal.twilio.com/2021/virtual/sessions/27476/live-developer-mode-supercharge-your-twilio-development) | [🖥 Slides](https://speakerdeck.com/dkundel/signal-2021-live-developer-mode)<br>[📹 Video](https://www.youtube.com/watch?v=M-vSS8sqi2k) |
 
 ## ✏️ Technical Writing
 
@@ -178,6 +178,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [US A2P10DLC for Developers](https://www.twilio.com/blog/us-a2p10dlc-for-developers) | March 15, 2021
 - 🇺🇸 [New Major Serverless Toolkit Version](https://www.twilio.com/blog/new-major-serverless-toolkit-version) | May 19, 2021
 - 🇺🇸 [How U.S A2P 10DLC Affects Developers and Small Businesses](https://www.twilio.com/blog/a2p10dlc-developers-small-businesses) | June 22, 2021
+- 🇺🇸 [SIGNAL DEveloper Mode 2021](https://www.twilio.com/blog/signal-developer-mode-2021) | October 15, 2021
 
 ### 📰 Print
 
