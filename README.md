@@ -145,7 +145,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Building the IT Crowd answering machine using Twilio Functions](https://www.twilio.com/blog/2017/07/building-the-it-crowd-answering-machine-using-twilio-functions.html) | July 4, 2017
 - 🇺🇸 [Find projects infected by malicious npm packages](https://www.twilio.com/blog/2017/08/find-projects-infected-by-malicious-npm-packages.html) | August 2, 2017
 - 🇺🇸 [JS 💖 Hardware - Getting started with Nodebots and Johnny-Five](https://www.twilio.com/blog/2017/08/js-hardware-getting-started-with-nodebots-and-johnny-five.html) | August 4, 2017
-- 🇺🇸 [Working with Environment Variables](https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html) | August 11, 2017
+- 🇺🇸 [Working with Environment Variables](https://www.twilio.com/blog/2022/02/working-with-environment-variables-in-node-js.html) | August 11, 2017
 - 🇺🇸 [Building a TodoMVC with Twilio Sync and JavaScript](https://www.twilio.com/blog/2017/09/building-a-todomvc-with-twilio-sync.html) | September 28, 2017
 - 🇺🇸 [Putting the helmet on - Securing your Express app](https://www.twilio.com/blog/2017/11/securing-your-express-app.html) | November 21, 2017
 - 🇺🇸 [Going surfing - Protect your Node.js app from Cross-Site Request Forgery](https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html) | January 11, 2018
