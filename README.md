@@ -1,11 +1,12 @@
 <div class="info">
-  <p align="center" class="header-image"><img src="images/me-neutral-round.png" width="200" alt="Image of Dominik Kundel looking into camera"></p>
+  <p align="center" class="header-image"><img src="images/me-decorative.png" width="250" alt="Image of Dominik Kundel looking into camera"></p>
   <h1 class="name" align="center"><span>Dominik Kundel</span></h1>
   <p class="meta-data" align="center">
-    ✨ Developer Advocate at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
+    ✨ Principal Product Manager at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
     ✨ JavaScript hacker ✨<br/>
     ✨ Hackathon enthusiast ✨<br/>
-    ✨ Public speaker ✨
+    ✨ Public speaker ✨<br/>
+    ✨ Cocktail & food photographer ✨
   </p>
   <p class="info-footer" align="center">
     🥃👨‍💻🐼
@@ -16,7 +17,7 @@
 
 ## 👨‍💻 Biography
 
-Dominik is a Developer Advocate for Twilio in San Francisco. He loves tinkering with anything that can run JavaScript, from the front-end over servers to CLIs and [coffee machines](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/), he ran JavaScript anywhere he could. You can find him tweeting [@dkundel](https://twitter.com/dkundel) or working on open source projects for [CodeExchange](https://www.twilio.com/code-exchange) and [Twilio Labs](https://www.twilio.com/labs). In his spare time he's working on [cocktail, food and photography projects](https://instagram.com/cocktail.and.code).
+Dominik is a Principal Product Manager of Developer Experience & Serverless for Twilio in San Francisco. He has 6 years of Developer Relations experience. Dominik loves tinkering with anything that can run JavaScript, from the front-end over servers to CLIs and [coffee machines](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/), he ran JavaScript anywhere he could. You can find him tweeting [@dkundel](https://twitter.com/dkundel) or working on open source projects for [CodeExchange](https://www.twilio.com/code-exchange) and [Twilio Labs](https://www.twilio.com/labs). In his spare time he's working on [cocktail, food and photography projects](https://instagram.com/cocktail.and.code).
 
 ### 🎤 Examples of Previous Talks
 
@@ -122,6 +123,8 @@ You can find some of his previous talks here:
 | [WFHConf '20](https://community.nearform.com/wfh-conf) | Online,&nbsp;🌐 | March 27, 2020 | [How to move your project to TypeScript](abstracts/MOVING_TO_TYPESCRIPT.md) | [🖥 Slides](https://speakerdeck.com/dkundel/wfhconf-move-to-typescript-at-your-own-pace)<br>[📹 Video](https://www.youtube.com/watch?v=JA5pFAijI30) |
 | [OpenJS World '20](https://events.linuxfoundation.org/openjs-world/) | Online,&nbsp;🌐 | June 23, 2020 | [What the AST?](abstracts/WHAT-THE-AST.md) | [🖥 Slides](https://speakerdeck.com/dkundel/openjs-world-what-the-ast)<br>[📹 Video](https://www.youtube.com/watch?v=BtD2OrlLBhI) |
 | [SIGNAL '21](https://signal.twilio.com) | Online,&nbsp;🌐 | October 19, 2021 | [Live Developer Mode: Supercharge your Twilio development](https://signal.twilio.com/2021/virtual/sessions/27476/live-developer-mode-supercharge-your-twilio-development) | [🖥 Slides](https://speakerdeck.com/dkundel/signal-2021-live-developer-mode)<br>[📹 Video](https://www.youtube.com/watch?v=M-vSS8sqi2k) |
+| [SIGNAL '22](https://signal.twilio.com) | Online,&nbsp;🌐 | November 2, 2022 | 5 Messaging Apps in 30 Minutes with CodeExchange | [📹 Video](https://www.twitch.tv/videos/1641884341?collection=LAECr73yIxejMQ) |
+| [SIGNAL '22](https://signal.twilio.com) | Online,&nbsp;🌐 | November 3, 2022 | Build faster. Going Serverless on Twilio can help you prioritize your customer experience | [📹 Video](https://www.twitch.tv/videos/1642403977?collection=Zhs3hZwaJBct5g) |
 
 ## ✏️ Technical Writing
 
@@ -177,7 +180,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [US A2P10DLC for Developers](https://www.twilio.com/blog/us-a2p10dlc-for-developers) | March 15, 2021
 - 🇺🇸 [New Major Serverless Toolkit Version](https://www.twilio.com/blog/new-major-serverless-toolkit-version) | May 19, 2021
 - 🇺🇸 [How U.S A2P 10DLC Affects Developers and Small Businesses](https://www.twilio.com/blog/a2p10dlc-developers-small-businesses) | June 22, 2021
-- 🇺🇸 [SIGNAL DEveloper Mode 2021](https://www.twilio.com/blog/signal-developer-mode-2021) | October 15, 2021
+- 🇺🇸 [SIGNAL Developer Mode 2021](https://www.twilio.com/blog/signal-developer-mode-2021) | October 15, 2021
+- 🇺🇸 [Announcing General Availability of Twilio Functions and Assets](https://www.twilio.com/blog/functions-assets-general-availability) | October 17, 2022
 
 ### 📰 Print
 
