@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Biography
 
-Dominik is a Principal Product Manager of Developer Experience & Serverless for Twilio in San Francisco. He has 6 years of Developer Relations experience. Dominik loves tinkering with anything that can run JavaScript, from the front-end over servers to CLIs and [coffee machines](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/), he ran JavaScript anywhere he could. You can find him tweeting [@dkundel](https://twitter.com/dkundel) or working on open source projects for [CodeExchange](https://www.twilio.com/code-exchange) and [Twilio Labs](https://www.twilio.com/labs). In his spare time he's working on [cocktail, food and photography projects](https://instagram.com/cocktail.and.code).
+Dominik is a Principal Product Manager in the Office of the CEO at Twilio in San Francisco. He has over 7 years of experience in Developer Experience and Developer Relations. Dominik loves tinkering with anything that can run JavaScript, from the front-end over servers to CLIs and [coffee machines](https://moin.world/2017/04/01/how-we-hacked-our-coffee-machine-with-javascript/), he ran JavaScript anywhere he could. You can find him tweeting [@dkundel](https://twitter.com/dkundel) or working on open source projects for [CodeExchange](https://www.twilio.com/code-exchange) and [Twilio Labs](https://www.twilio.com/labs). In his spare time he's working on [cocktail, food and photography projects](https://instagram.com/cocktail.and.code).
 
 ### 🎤 Examples of Previous Talks
 
