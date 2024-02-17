@@ -2,7 +2,7 @@
   <p align="center" class="header-image"><img src="images/me-decorative.png" width="250" alt="Image of Dominik Kundel looking into camera"></p>
   <h1 class="name" align="center"><span>Dominik Kundel</span></h1>
   <p class="meta-data" align="center">
-    ✨ Principal Product Manager at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
+    ✨ Sr. Manager Product Management at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
     ✨ JavaScript hacker ✨<br/>
     ✨ Hackathon enthusiast ✨<br/>
     ✨ Public speaker ✨<br/>
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Biography
 
-Dominik is a Principal Product Manager at Twilio, who is exploring the possibilities of bringing together the world of communications and customer data through Artificial Intelligence.  Deeply passionate about the Developer Experience, he’s a JavaScript enthusiast who’s integrated it into everything from CLIs to [coffee machines](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/). Catch his tweets [@dkundel](https://twitter.com/dkundel) and his side ventures in [cocktails, food and photography](https://instagram.com/cocktail.and.code).
+Dominik leads Product for the Special Projects organization at Twilio. His team builds next gen prototypes and iterates quickly to help craft the long term product vision. Recently they've been exploring the possibilities of bringing together communications and customer data through Artificial Intelligence. Deeply passionate about the Developer Experience, he’s a JavaScript enthusiast who’s integrated it into everything from CLIs to [coffee machines](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/). Catch his tweets [@dkundel](https://twitter.com/dkundel) and his side ventures in [cocktails, food and photography](https://instagram.com/cocktail.and.code).
 
 ### 🎤 Examples of Previous Talks
 
@@ -125,6 +125,7 @@ You can find some of his previous talks here:
 | [SIGNAL '21](https://signal.twilio.com) | Online,&nbsp;🌐 | October 19, 2021 | [Live Developer Mode: Supercharge your Twilio development](https://signal.twilio.com/2021/virtual/sessions/27476/live-developer-mode-supercharge-your-twilio-development) | [🖥 Slides](https://speakerdeck.com/dkundel/signal-2021-live-developer-mode)<br>[📹 Video](https://www.youtube.com/watch?v=M-vSS8sqi2k) |
 | [SIGNAL '22](https://signal.twilio.com) | Online,&nbsp;🌐 | November 2, 2022 | 5 Messaging Apps in 30 Minutes with CodeExchange | [📹 Video](https://www.twitch.tv/videos/1641884341?collection=LAECr73yIxejMQ) |
 | [SIGNAL '22](https://signal.twilio.com) | Online,&nbsp;🌐 | November 3, 2022 | Build faster. Going Serverless on Twilio can help you prioritize your customer experience | [📹 Video](https://www.twitch.tv/videos/1642403977?collection=Zhs3hZwaJBct5g) |
+| [SF Tech Talks - Jan '24](https://jam.dev/blog/tech-talks-sf-jam-cloudflare-twilio/) | San Francisco, CA,&nbsp;🇺🇸 | January 23, 2024 | Rogue Agents — Stop AI from misusing APIs | [🖥️ Slides](https://speakerdeck.com/dkundel/rogue-agents-stop-ai-from-misusing-apis)<br>[📹 Video](https://www.youtube.com/watch?v=IwB10qsy24g) |
 
 ## ✏️ Technical Writing
 
