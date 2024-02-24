@@ -183,6 +183,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [How U.S A2P 10DLC Affects Developers and Small Businesses](https://www.twilio.com/blog/a2p10dlc-developers-small-businesses) | June 22, 2021
 - 🇺🇸 [SIGNAL Developer Mode 2021](https://www.twilio.com/blog/signal-developer-mode-2021) | October 15, 2021
 - 🇺🇸 [Announcing General Availability of Twilio Functions and Assets](https://www.twilio.com/blog/functions-assets-general-availability) | October 17, 2022
+- 🇺🇸 [Creating your own image generation model using JavaScript](https://dkundel.com/blog/fine-tuning-sdxl/) | February 23, 2024
 
 ### 📰 Print
 
