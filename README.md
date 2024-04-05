@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Biography
 
-Dominik leads Product for the Special Projects organization at Twilio. His team builds next gen prototypes and iterates quickly to help craft the long term product vision. Recently they've been exploring the possibilities of bringing together communications and customer data through Artificial Intelligence. Deeply passionate about the Developer Experience, he’s a JavaScript enthusiast who’s integrated it into everything from CLIs to [coffee machines](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/). Catch his tweets [@dkundel](https://twitter.com/dkundel) and his side ventures in [cocktails, food and photography](https://instagram.com/cocktail.and.code).
+Dominik leads Product and Design for the Emerging Tech & Innovation organization at Twilio. His team builds next gen prototypes and iterates quickly to help craft the long term product vision and explore the impact of autonomous agents & AGI on customer engagement. Deeply passionate about the Developer Experience, he’s a JavaScript enthusiast who’s integrated it into everything from CLIs to [coffee machines](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/). Catch his tweets [@dkundel](https://twitter.com/dkundel) and his side ventures in [cocktails, food and photography](https://instagram.com/cocktail.and.code).
 
 ### 🎤 Examples of Previous Talks
 
