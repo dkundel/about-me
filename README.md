@@ -185,6 +185,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [SIGNAL Developer Mode 2021](https://www.twilio.com/blog/signal-developer-mode-2021) | October 15, 2021
 - 🇺🇸 [Announcing General Availability of Twilio Functions and Assets](https://www.twilio.com/blog/functions-assets-general-availability) | October 17, 2022
 - 🇺🇸 [Creating your own image generation model using JavaScript](https://dkundel.com/blog/fine-tuning-sdxl/) | February 23, 2024
+- 🇺🇸 [Let's talk about Developer Experience: The Spectrum of DX](https://www.twilio.com/en-us/blog/developer-experience-spectrum) | July 23, 2024
+- 🇺🇸 [Developing and Managing Tools for Twilio AI Assistants](https://www.twilio.com/en-us/blog/developing-managing-tools-twilio-ai-assistants) | July 23, 2024
 
 ### 📰 Print
 
