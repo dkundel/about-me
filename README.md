@@ -187,6 +187,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Creating your own image generation model using JavaScript](https://dkundel.com/blog/fine-tuning-sdxl/) | February 23, 2024
 - 🇺🇸 [Let's talk about Developer Experience: The Spectrum of DX](https://www.twilio.com/en-us/blog/developer-experience-spectrum) | July 23, 2024
 - 🇺🇸 [Developing and Managing Tools for Twilio AI Assistants](https://www.twilio.com/en-us/blog/developing-managing-tools-twilio-ai-assistants) | July 23, 2024
+- 🇺🇸 [Five ways to work with Generative AI in JavaScript](https://dkundel.com/blog/5-ways-ai-javascript/) | July 27, 2024
 
 ### 📰 Print
 
