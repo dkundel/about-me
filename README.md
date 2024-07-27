@@ -126,7 +126,7 @@ You can find some of his previous talks here:
 | [SIGNAL '22](https://signal.twilio.com) | Online,&nbsp;🌐 | November 2, 2022 | 5 Messaging Apps in 30 Minutes with CodeExchange | [📹 Video](https://www.twitch.tv/videos/1641884341?collection=LAECr73yIxejMQ) |
 | [SIGNAL '22](https://signal.twilio.com) | Online,&nbsp;🌐 | November 3, 2022 | Build faster. Going Serverless on Twilio can help you prioritize your customer experience | [📹 Video](https://www.twitch.tv/videos/1642403977?collection=Zhs3hZwaJBct5g) |
 | [SF Tech Talks - Jan '24](https://jam.dev/blog/tech-talks-sf-jam-cloudflare-twilio/) | San Francisco, CA,&nbsp;🇺🇸 | January 23, 2024 | Rogue Agents — Stop AI from misusing APIs | [🖥️ Slides](https://speakerdeck.com/dkundel/rogue-agents-stop-ai-from-misusing-apis)<br>[📹 Video](https://www.youtube.com/watch?v=IwB10qsy24g) |
-| [AI Engineer World's Fair 2024](https://www.ai.engineer/worldsfair/2024/schedule/) | San Francisco, CA,&nbsp;🇺🇸 | June 27, 2024 | [Cooking with fire without burning down the kitchen](https://www.ai.engineer/worldsfair/2024/schedule/cooking-with-fire-without-burning-down-the-kitchen) | [🖥️ Slides](https://d-k.im/ai-engineer) |
+| [AI Engineer World's Fair 2024](https://www.ai.engineer/worldsfair/2024/schedule/) | San Francisco, CA,&nbsp;🇺🇸 | June 27, 2024 | [Cooking with fire without burning down the kitchen](https://www.ai.engineer/worldsfair/2024/schedule/cooking-with-fire-without-burning-down-the-kitchen) | [🖥️ Slides](https://d-k.im/ai-engineer)<br>[📹 Video](https://youtu.be/AVjrkXGnF2M?si=6FgZfUU9UTEZWgT-) |
 
 ## ✏️ Technical Writing
 
