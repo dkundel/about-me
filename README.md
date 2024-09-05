@@ -128,7 +128,7 @@ You can find some of his previous talks here:
 | [SF Tech Talks - Jan '24](https://jam.dev/blog/tech-talks-sf-jam-cloudflare-twilio/) | San Francisco, CA,&nbsp;🇺🇸 | January 23, 2024 | Rogue Agents — Stop AI from misusing APIs | [🖥️ Slides](https://speakerdeck.com/dkundel/rogue-agents-stop-ai-from-misusing-apis)<br>[📹 Video](https://www.youtube.com/watch?v=IwB10qsy24g) |
 | [AI Engineer World's Fair 2024](https://www.ai.engineer/worldsfair/2024/schedule/) | San Francisco, CA,&nbsp;🇺🇸 | June 27, 2024 | [Cooking with fire without burning down the kitchen](https://www.ai.engineer/worldsfair/2024/schedule/cooking-with-fire-without-burning-down-the-kitchen) | [🖥️ Slides](https://d-k.im/ai-engineer)<br>[📹 Video](https://youtu.be/AVjrkXGnF2M?si=6FgZfUU9UTEZWgT-) |
 | [AGI Builders Meetup July '24](https://lu.ma/eiutic30) | San Francisco, CA,&nbsp;🇺🇸 | July 30, 2024 | Rogue Agents — Stop AI from misusing APIs | [🖥️ Slides](https://d-k.im/agi-builders-july) |
-| [AI for Marketers Sept '24](https://lu.ma/3lej9twf) | San Francisco, CA,&nbsp;🇺🇸 | Sept 4, 2024 | How AI Agents Will Change Your Growth Marketing Strategy | [🖥️ Slides](https://d-k.im/ai-marketers)<br>[📹 Video](https://www.linkedin.com/events/aiformarketers-187227389525595938816/comments/) |
+| [AI for Marketers Sept '24](https://lu.ma/3lej9twf) | San Francisco, CA,&nbsp;🇺🇸 | September 4, 2024 | How AI Agents Will Change Your Growth Marketing Strategy | [🖥️ Slides](https://d-k.im/ai-marketers)<br>[📹 Video](https://www.linkedin.com/events/aiformarketers-187227389525595938816/comments/) |
 
 ## ✏️ Technical Writing
 
