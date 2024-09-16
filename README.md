@@ -191,6 +191,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Developing and Managing Tools for Twilio AI Assistants](https://www.twilio.com/en-us/blog/developing-managing-tools-twilio-ai-assistants) | July 23, 2024
 - 🇺🇸 [Five ways to work with Generative AI in JavaScript](https://dkundel.com/blog/5-ways-ai-javascript/) | July 27, 2024
 - 🇺🇸 [Empowering Developers Is Critical to Drive AI Innovation](https://thenewstack.io/empowering-developers-is-critical-to-drive-ai-innovation/) | September 5, 2024
+- 🇺🇸 [How AI Agents Will Reshape Your Growth Marketing Strategy](https://www.twilio.com/en-us/blog/ai-agents-growth-marketing-strategy) | September 16, 2024
 
 ### 📰 Print
 
