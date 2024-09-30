@@ -192,6 +192,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [Five ways to work with Generative AI in JavaScript](https://dkundel.com/blog/5-ways-ai-javascript/) | July 27, 2024
 - 🇺🇸 [Empowering Developers Is Critical to Drive AI Innovation](https://thenewstack.io/empowering-developers-is-critical-to-drive-ai-innovation/) | September 5, 2024
 - 🇺🇸 [How AI Agents Will Reshape Your Growth Marketing Strategy](https://www.twilio.com/en-us/blog/ai-agents-growth-marketing-strategy) | September 16, 2024
+- 🇺🇸 [Code from Anywhere — How AI is Finally Bringing Development to Your Pocket](https://dkundel.com/blog/code-from-anywhere/) | September 30, 2024
 
 ### 📰 Print
 
