@@ -37,7 +37,7 @@ You can find some of his previous talks here:
 - 🌐 [Website dkundel.com](https://dkundel.com)
 - 📦 [npm dkundel](https://npmjs.com/~dkundel)
 - 🗣 [Speakerdeck dkundel](https://speakerdeck.com/dkundel)
-- 🖼 [Official Picture](https://i.imgur.com/Hd53Nvz.jpg)
+- 🖼 [Official Picture](https://github.com/dkundel/about-me/blob/master/images/dkundel-speaker-image.png?raw=true)
 - 📸 [Instagram](https://instagram.com/cocktail.and.code)
 
 ## 💬 Current Talk Topics
