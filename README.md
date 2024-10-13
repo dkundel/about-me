@@ -194,6 +194,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [How AI Agents Will Reshape Your Growth Marketing Strategy](https://www.twilio.com/en-us/blog/ai-agents-growth-marketing-strategy) | September 16, 2024
 - 🇺🇸 [Code from Anywhere — How AI is Finally Bringing Development to Your Pocket](https://dkundel.com/blog/code-from-anywhere/) | September 30, 2024
 - 🇺🇸 [Build an AI Voice Assistant with Twilio Voice, OpenAI’s Realtime API, and Node.js](https://www.twilio.com/en-us/blog/voice-ai-assistant-openai-realtime-api-node) | October 1, 2024
+- 🇺🇸 [Rogue Agents: Stop AI From Misusing Your APIs](https://www.twilio.com/en-us/blog/rogue-ai-agents-secure-your-apis) | October 10, 2024
 
 ### 📰 Print
 
