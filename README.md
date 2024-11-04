@@ -33,7 +33,7 @@ You can find some of his previous talks here:
 - 🐦 [Twitter @dkundel](https://twitter.com/dkundel)
 - 📧 [Email hi@dkundel.com](mailto:hi@dkundel.com)
 - :octocat: [GitHub dkundel](https://github.com/dkundel)
-- 🦋 [Bluesky](https://bsky.app/profile/dkundel.com)
+- 🦋 [Bluesky @dkundel.com](https://bsky.app/profile/dkundel.com)
 - ✏️ [Blog moin.world](https://moin.world)
 - 🌐 [Website dkundel.com](https://dkundel.com)
 - 📦 [npm dkundel](https://npmjs.com/~dkundel)
