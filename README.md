@@ -2,7 +2,7 @@
   <p align="center" class="header-image"><img src="images/me-decorative.png" width="250" alt="Image of Dominik Kundel looking into camera"></p>
   <h1 class="name" align="center"><span>Dominik Kundel</span></h1>
   <p class="meta-data" align="center">
-    ✨ Sr. Manager Product Management at <a target="_blank" rel="noopener noreferrer" href="https://www.twilio.com">Twilio</a> ✨<br/>
+    ✨ Developer Experience at <a target="_blank" rel="noopener noreferrer" href="https://openai.com">OpenAI</a> ✨<br/>
     ✨ JavaScript hacker ✨<br/>
     ✨ Hackathon enthusiast ✨<br/>
     ✨ Public speaker ✨<br/>
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Biography
 
-Dominik leads Product and Design for the Emerging Tech & Innovation organization at Twilio. His team builds next gen prototypes and iterates quickly to help craft the long term product vision and explore the impact of autonomous agents & AGI on customer engagement. Deeply passionate about the Developer Experience, he’s a JavaScript enthusiast who’s integrated it into everything from CLIs to [coffee machines](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/). Catch his tweets [@dkundel](https://twitter.com/dkundel) and his side ventures in [cocktails, food and photography](https://instagram.com/cocktail.and.code).
+Dominik is a developer and product leader with a passion for Developer Experience and Generative AI. He's currently working on Developer Experience & SDKs at OpenAI. Previously he lead Product & Design for Twilio's Emerging Tech & Innovation organization where his team worked on customer-aware AI agents. He has a deep passion for Developer Experience & Developer Relations with over 10 years experience in the field. Dominik loves tinkering with anything that can run JavaScript, from front-end servers to CLIs and [coffee machines](https://dkundel.com/blog/how-we-hacked-our-coffee-machine-with-javascript/). You can find him tweeting [@dkundel](https://twitter.com/dkundel) and in his spare time he's working on [cocktails, food and photography](https://instagram.com/cocktail.and.code).
 
 ### 🎤 Examples of Previous Talks
 
@@ -31,7 +31,7 @@ You can find some of his previous talks here:
 ## 👥 Social Channels
 
 - 🐦 [Twitter @dkundel](https://twitter.com/dkundel)
-- 📧 [Email hi@dkundel.com](mailto:hi@dkundel.com)
+- 📧 [Email hi@dominik.dev](mailto:hi@dominik.dev)
 - :octocat: [GitHub dkundel](https://github.com/dkundel)
 - 🦋 [Bluesky @dkundel.com](https://bsky.app/profile/dkundel.com)
 - ✏️ [Blog moin.world](https://moin.world)
