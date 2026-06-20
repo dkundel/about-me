@@ -130,6 +130,20 @@ You can find some of his previous talks here:
 | [AI Engineer World's Fair 2024](https://www.ai.engineer/worldsfair/2024/schedule/) | San Francisco, CA,&nbsp;🇺🇸 | June 27, 2024 | [Cooking with fire without burning down the kitchen](https://www.ai.engineer/worldsfair/2024/schedule/cooking-with-fire-without-burning-down-the-kitchen) | [🖥️ Slides](https://d-k.im/ai-engineer)<br>[📹 Video](https://youtu.be/AVjrkXGnF2M?si=6FgZfUU9UTEZWgT-) |
 | [AGI Builders Meetup July '24](https://lu.ma/eiutic30) | San Francisco, CA,&nbsp;🇺🇸 | July 30, 2024 | Rogue Agents — Stop AI from misusing APIs | [🖥️ Slides](https://d-k.im/agi-builders-july) |
 | [AI for Marketers Sept '24](https://lu.ma/3lej9twf) | San Francisco, CA,&nbsp;🇺🇸 | September 4, 2024 | How AI Agents Will Change Your Growth Marketing Strategy | [🖥️ Slides](https://d-k.im/ai-marketers)<br>[📹 Video](https://www.youtube.com/watch?v=2gU72m_kyAo&feature=youtu.be) |
+| [AWS re:Invent '24](https://reinvent.awsevents.com/) | Las Vegas, NV,&nbsp;🇺🇸 | December 3, 2024 | Rogue Agents — Stop AI from misusing APIs | [🖥️ Slides](https://speakerdeck.com/dkundel/aws-re-invent-24-rogue-agents-stop-ai-from-misusing-apis) |
+| [AI Engineer World's Fair 2025](https://www.ai.engineer/worldsfair/2025/schedule) | San Francisco, CA,&nbsp;🇺🇸 | June 3, 2025 | Building voice agents with OpenAI | [📹 Video](https://www.youtube.com/watch?v=iXhba366fQc) |
+| [Together AI GPT-OSS Live Q&A](https://www.youtube.com/watch?v=1cHvhv3U1iY) | Online,&nbsp;🌐 | August 27, 2025 | GPT-OSS: Deep Dive + Live Q&A with OpenAI's Dominik Kundel | [📹 Video](https://www.youtube.com/watch?v=1cHvhv3U1iY) |
+| [OpenAI, Ollama and vLLM meetup on gpt-oss](https://luma.com/gpt-oss) | San Francisco, CA,&nbsp;🇺🇸 | August 27, 2025 | Diving into the capabilities of gpt-oss, what it is designed for and its expected usage | |
+| [CascadiaJS 2025](https://cascadiajs.com/2025/talks/runtime-error-writing-js-libraries-in-the-age-of-fragmentation) | Seattle, WA,&nbsp;🇺🇸 | September 18, 2025 | Runtime Error: Writing JS Libraries in the Age of Fragmentation | [📹 Video](https://www.youtube.com/watch?v=VCgEAnUrZXM) |
+| [SIGNAL San Francisco 2025](https://signal.twilio.com/2025/session/3090922/%5Brepeat%5D-building-delightful-voice-agents-with-openai) | San Francisco, CA,&nbsp;🇺🇸 | 2025 | Building delightful voice agents with OpenAI | |
+| [MCP & AI Agents: Drinks + Panel with OpenAI, Langflow, Vercel, & Stytch](https://luma.com/hmq9j8n3) | San Francisco, CA,&nbsp;🇺🇸 | October 9, 2025 | Agent and MCP infrastructure, architecture, and emerging standards | |
+| [AI Coding Accelerator: How OpenAI uses Codex](https://maven.com/p/ab4a2f/ai-coding-accelerator-how-open-ai-uses-codex) | Online,&nbsp;🌐 | October 16, 2025 | How OpenAI uses Codex | |
+| [State of MCP](https://www.youtube.com/watch?v=vcxgIyZaqNQ) | Online,&nbsp;🌐 | October 16, 2025 | Explore the future of Model Context Protocol | [📹 Video](https://www.youtube.com/watch?v=vcxgIyZaqNQ) |
+| [WAWTech 2025](https://www.youtube.com/watch?v=bMRRrPUlpcM) | Warsaw,&nbsp;🇵🇱 | 2025 | Best Practices of Building Agents | [📹 Video](https://www.youtube.com/watch?v=bMRRrPUlpcM)<br>[🖥️ Slides](https://drive.google.com/file/d/1RdKgHrST9McMysQaGkE41LeuhE4cPzfa/view?usp=drive_link) |
+| [Resend DevTools Meetup](https://events.ycombinator.com/resend-devtools-26) | San Francisco, CA,&nbsp;🇺🇸 | March 26, 2026 | Great Developer Tooling Matters More in the Age of Agents | |
+| [Replay 2026](https://temporal.io/resources/on-demand/how-openai-uses-codex-to-change-how-we-build) | San Francisco, CA,&nbsp;🇺🇸 | May 5-7, 2026 | How OpenAI uses Codex to change how we build | [📹 Video](https://www.youtube.com/watch?v=NjaX4qt-O1Y) |
+| [State of AI - Agentic UI](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) | Online,&nbsp;🌐 | May 18, 2026 | Agentic UI and AI-driven product experiences | [📹 Video](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) |
+| [Render localhost:2026 SF](https://luma.com/localhost-2026-sf) | San Francisco, CA,&nbsp;🇺🇸 | June 18, 2026 | Agentic application development | |
 
 ## ✏️ Technical Writing
 
@@ -196,6 +210,19 @@ You can find some of his previous talks here:
 - 🇺🇸 [Code from Anywhere — How AI is Finally Bringing Development to Your Pocket](https://dkundel.com/blog/code-from-anywhere/) | September 30, 2024
 - 🇺🇸 [Build an AI Voice Assistant with Twilio Voice, OpenAI’s Realtime API, and Node.js](https://www.twilio.com/en-us/blog/voice-ai-assistant-openai-realtime-api-node) | October 1, 2024
 - 🇺🇸 [Rogue Agents: Stop AI From Misusing Your APIs](https://www.twilio.com/en-us/blog/rogue-ai-agents-secure-your-apis) | October 10, 2024
+- 🇺🇸 [OpenAI Harmony Response Format](https://developers.openai.com/cookbook/articles/openai-harmony) | August 5, 2025
+- 🇺🇸 [How to handle the raw chain of thought in gpt-oss](https://developers.openai.com/cookbook/articles/gpt-oss/handle-raw-cot) | August 5, 2025
+- 🇺🇸 [How to run gpt-oss locally with Ollama](https://developers.openai.com/cookbook/articles/gpt-oss/run-locally-ollama) | August 5, 2025
+- 🇺🇸 [How to run gpt-oss with Transformers](https://developers.openai.com/cookbook/articles/gpt-oss/run-transformers) | August 5, 2025
+- 🇺🇸 [How to run gpt-oss with vLLM](https://developers.openai.com/cookbook/articles/gpt-oss/run-vllm) | August 5, 2025
+- 🇺🇸 [Verifying gpt-oss implementations](https://developers.openai.com/cookbook/articles/gpt-oss/verifying-implementations) | August 11, 2025
+- 🇺🇸 [How Codex ran OpenAI DevDay 2025](https://developers.openai.com/blog/codex-at-devday) | October 10, 2025
+- 🇺🇸 [Testing Agent Skills Systematically with Evals](https://developers.openai.com/blog/eval-skills) | January 22, 2026
+- 🇺🇸 [Building LEGO sets with Codex](https://x.com/i/article/2027509612262658048) | February 27, 2026
+- 🇺🇸 [Putting Codex into DOOM](https://x.com/i/article/2040117694519980033) | April 3, 2026
+- 🇺🇸 [How I Stopped Needing to Explain Things to Codex](https://x.com/i/article/2046292849482989568) | April 20, 2026
+- 🇺🇸 [The Most Fun I’ve Had Building Apps: GPT-5.5 + GPT-Image-2](https://x.com/i/article/2049579443216338944) | April 29, 2026
+- 🇺🇸 [A guide to /goal 🥅](https://x.com/i/article/2062645394719547392) | June 4, 2026
 
 ### 📰 Print
 
