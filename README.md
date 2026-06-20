@@ -143,7 +143,7 @@ You can find some of his previous talks here:
 | [Resend DevTools Meetup](https://events.ycombinator.com/resend-devtools-26) | San Francisco, CA,&nbsp;🇺🇸 | March 26, 2026 | Great Developer Tooling Matters More in the Age of Agents | |
 | [Replay 2026](https://temporal.io/resources/on-demand/how-openai-uses-codex-to-change-how-we-build) | San Francisco, CA,&nbsp;🇺🇸 | May 5-7, 2026 | How OpenAI uses Codex to change how we build | [📹 Video](https://www.youtube.com/watch?v=NjaX4qt-O1Y) |
 | [State of AI - Agentic UI](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) | Online,&nbsp;🌐 | May 18, 2026 | Agentic UI and AI-driven product experiences | [📹 Video](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) |
-| [Render localhost:2026 SF](https://luma.com/localhost-2026-sf) | San Francisco, CA,&nbsp;🇺🇸 | June 18, 2026 | Agentic application development | |
+| [Render localhost:2026 SF](https://localhost.render.com/) | San Francisco, CA,&nbsp;🇺🇸 | June 18, 2026 | From prompt engineering to vague prompting | |
 
 ## ✏️ Technical Writing
 
