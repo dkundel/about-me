@@ -218,11 +218,11 @@ You can find some of his previous talks here:
 - 🇺🇸 [Verifying gpt-oss implementations](https://developers.openai.com/cookbook/articles/gpt-oss/verifying-implementations) | August 11, 2025
 - 🇺🇸 [How Codex ran OpenAI DevDay 2025](https://developers.openai.com/blog/codex-at-devday) | October 10, 2025
 - 🇺🇸 [Testing Agent Skills Systematically with Evals](https://developers.openai.com/blog/eval-skills) | January 22, 2026
-- 🇺🇸 [Building LEGO sets with Codex](https://x.com/i/article/2027509612262658048) | February 27, 2026
-- 🇺🇸 [Putting Codex into DOOM](https://x.com/i/article/2040117694519980033) | April 3, 2026
-- 🇺🇸 [How I Stopped Needing to Explain Things to Codex](https://x.com/i/article/2046292849482989568) | April 20, 2026
-- 🇺🇸 [The Most Fun I’ve Had Building Apps: GPT-5.5 + GPT-Image-2](https://x.com/i/article/2049579443216338944) | April 29, 2026
-- 🇺🇸 [A guide to /goal 🥅](https://x.com/i/article/2062645394719547392) | June 4, 2026
+- 🇺🇸 [Building LEGO sets with Codex](https://x.com/dkundel/article/2027521982057890182) | February 27, 2026
+- 🇺🇸 [Putting Codex into DOOM](https://x.com/dkundel/article/2040130396747407437) | April 3, 2026
+- 🇺🇸 [How I Stopped Needing to Explain Things to Codex](https://x.com/dkundel/article/2046297434205430130) | April 20, 2026
+- 🇺🇸 [The Most Fun I’ve Had Building Apps: GPT-5.5 + GPT-Image-2](https://x.com/dkundel/article/2049591675518165134) | April 29, 2026
+- 🇺🇸 [A guide to /goal 🥅](https://x.com/dkundel/article/2062650378089594955) | June 4, 2026
 
 ### 📰 Print
 
