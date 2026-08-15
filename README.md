@@ -145,7 +145,7 @@ You can find some of his previous talks here:
 | [State of AI - Agentic UI](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) | Online,&nbsp;🌐 | May 18, 2026 | Agentic UI and AI-driven product experiences | [📹 Video](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) |
 | [Render localhost:2026 SF](https://localhost.render.com/) | San Francisco, CA,&nbsp;🇺🇸 | June 18, 2026 | From prompt engineering to vague prompting | |
 | [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 1, 2026 | Building on the Codex Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-app-server) |
-| [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 2, 2026 | Codex, Behind the Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-harness) |
+| [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 2, 2026 | Codex, Behind the Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-harness)<br>[📹 Video](https://youtu.be/shRR1e2HXMk) |
 | [DevRelCon NYC 2026](https://nyc.devrelcon.dev/sessions/114) | Brooklyn, NY,&nbsp;🇺🇸 | July 22, 2026 | Evolving DX at the Speed of Frontier AI | [🖥️ Slides](https://d-k.im/devrelcon) |
 
 ## ✏️ Technical Writing
