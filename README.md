@@ -233,7 +233,7 @@ You can find some of his previous talks here:
 - 🇺🇸 [The Most Fun I’ve Had Building Apps: GPT-5.5 + GPT-Image-2](https://x.com/dkundel/article/2049591675518165134) | April 29, 2026
 - 🇺🇸 [A guide to /goal 🥅](https://x.com/dkundel/article/2062650378089594955) | June 4, 2026
 - 🇺🇸 [How dots took over my Codex](https://x.com/dkundel/article/2106141525306397099) | October 2, 2026
-- 🇺🇸 [How I stay in the flow with Ultrafast](https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast) ([X article](https://x.com/dkundel/article/2123868868963889153)) | November 20, 2026
+- 🇺🇸 [How I stay in the flow with Ultrafast](https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast) | November 20, 2026
 
 ### 📰 Print
 
