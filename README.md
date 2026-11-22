@@ -144,9 +144,15 @@ You can find some of his previous talks here:
 | [Replay 2026](https://temporal.io/resources/on-demand/how-openai-uses-codex-to-change-how-we-build) | San Francisco, CA,&nbsp;🇺🇸 | May 5-7, 2026 | How OpenAI uses Codex to change how we build | [📹 Video](https://www.youtube.com/watch?v=NjaX4qt-O1Y) |
 | [State of AI - Agentic UI](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) | Online,&nbsp;🌐 | May 18, 2026 | Agentic UI and AI-driven product experiences | [📹 Video](https://www.youtube.com/watch?v=PXA3Sw-Mb5I) |
 | [Render localhost:2026 SF](https://localhost.render.com/) | San Francisco, CA,&nbsp;🇺🇸 | June 18, 2026 | From prompt engineering to vague prompting | |
-| [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 1, 2026 | Building on the Codex Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-app-server) |
+| [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 1, 2026 | Building on the Codex Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-app-server)<br>[📹 Video](https://www.youtube.com/watch?v=9WiBJRO84yY) |
 | [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 2, 2026 | Codex, Behind the Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-harness)<br>[📹 Video](https://youtu.be/shRR1e2HXMk) |
-| [DevRelCon NYC 2026](https://nyc.devrelcon.dev/sessions/114) | Brooklyn, NY,&nbsp;🇺🇸 | July 22, 2026 | Evolving DX at the Speed of Frontier AI | [🖥️ Slides](https://d-k.im/devrelcon) |
+| [DevRelCon NYC 2026](https://nyc.devrelcon.dev/sessions/114) | Brooklyn, NY,&nbsp;🇺🇸 | July 22, 2026 | Evolving DX at the Speed of Frontier AI | [🖥️ Slides](https://d-k.im/devrelcon)<br>[📹 Video](https://www.youtube.com/watch?v=tJtvhuDEnSo) |
+| [OpenAI DevDay 2026](https://openai.com/devday/2026/) | San Francisco, CA,&nbsp;🇺🇸 | September 29, 2026 | Codex Has Left The Laptop | [📹 Video](https://www.youtube.com/watch?v=XkKdbPhIvbY) |
+| [Germany at the Frontier](https://www.house-of.ai/germany-at-the-frontier) | San Francisco, CA,&nbsp;🇺🇸 | October 8, 2026 | Software: How AI Agents Change Building (panel) | |
+| [OpenAI DevDay Exchange Berlin](https://events.openai.com/devdayexchange2026?lang=en) | Berlin,&nbsp;🇩🇪 | October 26, 2026 | What Comes After Loops? | |
+| [OpenAI DevDay Exchange Paris](https://events.openai.com/devdayexchange2026?lang=en) | Paris,&nbsp;🇫🇷 | October 28, 2026 | What Comes After Loops? | |
+| [AI Engineer Code Summit 2026](https://ai.engineer/code/2026/schedule) | San Francisco, CA,&nbsp;🇺🇸 | November 10, 2026 | New Ways of Working with Codex (workshop with Charlie Guo) | [📹 Video](https://www.youtube.com/watch?v=IPh9YsWvDQk)<br>[🖥️ Slides](https://aie-codex-workshop.openai.chatgpt.site/) |
+| [AI Coding Summit NYC 2026](https://aicodingsummit.com/nyc/) | New York, NY,&nbsp;🇺🇸 | November 16, 2026 | [What Comes After AI Coding](https://gitnation.com/contents/what-comes-after-ai-coding) | |
 
 ## ✏️ Technical Writing
 
@@ -226,6 +232,8 @@ You can find some of his previous talks here:
 - 🇺🇸 [How I Stopped Needing to Explain Things to Codex](https://x.com/dkundel/article/2046297434205430130) | April 20, 2026
 - 🇺🇸 [The Most Fun I’ve Had Building Apps: GPT-5.5 + GPT-Image-2](https://x.com/dkundel/article/2049591675518165134) | April 29, 2026
 - 🇺🇸 [A guide to /goal 🥅](https://x.com/dkundel/article/2062650378089594955) | June 4, 2026
+- 🇺🇸 [How dots took over my Codex](https://x.com/dkundel/article/2106141525306397099) | October 2, 2026
+- 🇺🇸 [How I stay in the flow with Ultrafast](https://developers.openai.com/blog/how-i-stay-in-the-flow-with-ultrafast) | November 20, 2026
 
 ### 📰 Print
 
