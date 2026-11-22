@@ -147,8 +147,11 @@ You can find some of his previous talks here:
 | [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 1, 2026 | Building on the Codex Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-app-server)<br>[📹 Video](https://www.youtube.com/watch?v=9WiBJRO84yY) |
 | [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair/schedule) | San Francisco, CA,&nbsp;🇺🇸 | July 2, 2026 | Codex, Behind the Harness | [🖥️ Slides](https://d-k.im/aiewf-codex-harness)<br>[📹 Video](https://youtu.be/shRR1e2HXMk) |
 | [DevRelCon NYC 2026](https://nyc.devrelcon.dev/sessions/114) | Brooklyn, NY,&nbsp;🇺🇸 | July 22, 2026 | Evolving DX at the Speed of Frontier AI | [🖥️ Slides](https://d-k.im/devrelcon)<br>[📹 Video](https://www.youtube.com/watch?v=tJtvhuDEnSo) |
+| [OpenAI DevDay 2026](https://openai.com/devday/2026/) | San Francisco, CA,&nbsp;🇺🇸 | September 29, 2026 | Codex Has Left The Laptop | [📹 Video](https://www.youtube.com/watch?v=XkKdbPhIvbY) |
 | [Germany at the Frontier](https://www.house-of.ai/germany-at-the-frontier) | San Francisco, CA,&nbsp;🇺🇸 | October 8, 2026 | Software: How AI Agents Change Building (panel) | |
-| [AI Engineer Code Summit 2026](https://ai.engineer/code/2026/schedule) | San Francisco, CA,&nbsp;🇺🇸 | November 10, 2026 | New Ways of Working with Codex (workshop with Charlie Guo) | [📹 Video](https://www.youtube.com/watch?v=IPh9YsWvDQk)<br>[🧰 Workshop resources](https://aie-codex-workshop.openai.chatgpt.site/) |
+| [OpenAI DevDay Exchange Berlin](https://events.openai.com/devdayexchange2026?lang=en) | Berlin,&nbsp;🇩🇪 | October 26, 2026 | What Comes After Loops? | |
+| [OpenAI DevDay Exchange Paris](https://events.openai.com/devdayexchange2026?lang=en) | Paris,&nbsp;🇫🇷 | October 28, 2026 | What Comes After Loops? | |
+| [AI Engineer Code Summit 2026](https://ai.engineer/code/2026/schedule) | San Francisco, CA,&nbsp;🇺🇸 | November 10, 2026 | New Ways of Working with Codex (workshop with Charlie Guo) | [📹 Video](https://www.youtube.com/watch?v=IPh9YsWvDQk)<br>[🖥️ Slides](https://aie-codex-workshop.openai.chatgpt.site/) |
 | [AI Coding Summit NYC 2026](https://aicodingsummit.com/nyc/) | New York, NY,&nbsp;🇺🇸 | November 16, 2026 | [What Comes After AI Coding](https://gitnation.com/contents/what-comes-after-ai-coding) | |
 
 ## ✏️ Technical Writing
